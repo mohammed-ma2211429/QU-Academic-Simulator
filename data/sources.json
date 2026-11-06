@@ -1,0 +1,87 @@
+{
+  "sources": [
+    {
+      "id": "catalog_pdf",
+      "type": "local_file",
+      "path": "data/source_documents/catalog.pdf",
+      "title": "Qatar University Undergraduate Catalog 2026-2027",
+      "used_for": [
+        "Program degree requirements (total credit hours, category breakdowns) for Computer Science and Computer Engineering majors",
+        "Full course descriptions, credit hours, and prerequisite/corequisite chains for all CMPS, CMPE, ELEC, MATH, GENG, CHEM, PHYS courses referenced by both roadmaps",
+        "Official multi-year Study Plan tables for both programs",
+        "Major elective course lists and concentration requirements (Cybersecurity, Data Science)"
+      ],
+      "extraction_method": "Converted to text with pypdf (1214 pages) and searched/read directly; raw text cached at data/raw/catalog_fulltext.txt",
+      "retrieved": "2026-07-13"
+    },
+    {
+      "id": "cs_roadmap_png",
+      "type": "local_file",
+      "path": "data/source_documents/cs_roadmap.png",
+      "title": "Computer Science Program Roadmap - 2024 (Department of Computer Science and Engineering)",
+      "used_for": "Visual course sequencing / prerequisite arrows / semester grid layout for the CS program (2024 edition)",
+      "retrieved": "2026-07-13"
+    },
+    {
+      "id": "ce_roadmap_png",
+      "type": "local_file",
+      "path": "data/source_documents/ce_roadmap.png",
+      "title": "Computer Engineering Program Roadmap - 2024 (Department of Computer Science and Engineering)",
+      "used_for": "Visual course sequencing / prerequisite arrows / semester grid layout for the CE program (2024 edition)",
+      "retrieved": "2026-07-13"
+    },
+    {
+      "id": "qu_cs_enrollment_page",
+      "type": "web",
+      "url": "https://www.qu.edu.qa/en-us/colleges/engineering/academics/computer/cs/enrollment",
+      "title": "Registration and Graduation Data - B.Sc. in Computer Science",
+      "used_for": "Real per-year-level enrollment counts (2017/18-2021/22) and annual degrees awarded for the CS program. Cached at data/raw/enrollment_real_data.json.",
+      "retrieved": "2026-07-13"
+    },
+    {
+      "id": "qu_ce_enrollment_page",
+      "type": "web",
+      "url": "https://www.qu.edu.qa/en-us/colleges/engineering/academics/computer/ce/enrollment",
+      "title": "Registration and Graduation Data - B.Sc. in Computer Engineering",
+      "used_for": "Real per-year-level enrollment counts (2017/18-2021/22) and annual degrees awarded for the CE program. Cached at data/raw/enrollment_real_data.json.",
+      "retrieved": "2026-07-13"
+    },
+    {
+      "id": "qu_150pct_graduation_rate_opendata",
+      "type": "web",
+      "url": "https://www.data.gov.qa/explore/dataset/qatar-university-150-graduation-rate-per-cohort/",
+      "title": "Qatar University 150% Graduation Rate Per Cohort (Qatar Open Data Portal)",
+      "used_for": "University-wide (not program-specific) 150%-of-standard-duration graduation rates for Fall 2012-2016 cohorts (57.15%-73.58% overall). Used only as a calibration reference for assumed program-level graduation-timeline splits, since no CS/CE-specific on-time graduation rate is published. Cached at data/raw/enrollment_real_data.json.",
+      "retrieved": "2026-07-13"
+    }
+  ],
+  "online_sources_searched": [
+    {
+      "query": "site:qu.edu.qa fact book annual report filetype:pdf",
+      "result": "found_but_not_used",
+      "notes": "Located QU Fact Books (2011-12 through 2023-24) and Annual Reports. Not fetched in detail because the CS/CE-specific enrollment pages (found via a separate query) provided more directly relevant, program-level data."
+    },
+    {
+      "query": "site:qu.edu.qa college of engineering enrollment statistics filetype:pdf",
+      "result": "found_but_not_used",
+      "notes": "Returned undergraduate catalogs for multiple years and general admission guides; no program-specific enrollment tables surfaced in this query."
+    },
+    {
+      "query": "Qatar University computer science graduation rate enrollment statistics",
+      "result": "used",
+      "notes": "Surfaced the official CS enrollment/graduation page and the Qatar Open Data portal's 150% graduation rate dataset, both fetched and incorporated."
+    },
+    {
+      "query": "qu.edu.qa computer engineering enrollment graduation data",
+      "result": "used",
+      "notes": "Surfaced the official CE enrollment/graduation page, fetched and incorporated."
+    }
+  ],
+  "data_still_not_available": [
+    "Program-specific (CS/CE) on-time (<=8 term) graduation rate -- only university-wide 150% cohort rates are published",
+    "Number of sections offered per course per term",
+    "Published course pass/fail or grade distribution statistics per course",
+    "Total student counts per college (only CS/CE program-level figures were found)"
+  ],
+  "note": "Real enrollment and degrees-awarded figures (2017/18-2021/22) for both CS and CE were found on qu.edu.qa and are recorded in data/raw/enrollment_real_data.json; derived CAGR values (CS 27.2%/yr, CE 13.7%/yr) seed the Enrollment Forecasting page defaults. Per-course pass rates, section capacities, and sections-offered counts remain unpublished and are documented as assumptions in data/assumptions.json -- these can be replaced by faculty via the Data Override panel."
+}

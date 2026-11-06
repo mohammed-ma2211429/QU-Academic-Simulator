@@ -1,0 +1,1622 @@
+{
+  "department.MATH101": {
+    "pass_rate": {
+      "value": 0.91,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CHEM101": {
+    "pass_rate": {
+      "value": 0.96,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CHEM103": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 20,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 7,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.ENGL202": {
+    "pass_rate": {
+      "value": 0.88,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.HIST121": {
+    "pass_rate": {
+      "value": 0.95,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.MATH231": {
+    "pass_rate": {
+      "value": 0.89,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.PHYS191": {
+    "pass_rate": {
+      "value": 0.92,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.PHYS192": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 20,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 7,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.MATH102": {
+    "pass_rate": {
+      "value": 0.88,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.ENGL203": {
+    "pass_rate": {
+      "value": 0.88,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS200": {
+    "pass_rate": {
+      "value": 0.95,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.PHYS193": {
+    "pass_rate": {
+      "value": 0.92,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.PHYS194": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 20,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 7,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.ARAB100": {
+    "pass_rate": {
+      "value": 0.93,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.GENG200": {
+    "pass_rate": {
+      "value": 0.9,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.DAWA111": {
+    "pass_rate": {
+      "value": 0.95,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.GENG300": {
+    "pass_rate": {
+      "value": 0.9,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.MAGT101": {
+    "pass_rate": {
+      "value": 0.9,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS151": {
+    "pass_rate": {
+      "value": 0.955,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS251": {
+    "pass_rate": {
+      "value": 0.87,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS205": {
+    "pass_rate": {
+      "value": 0.94,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS303": {
+    "pass_rate": {
+      "value": 0.82,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPE263": {
+    "pass_rate": {
+      "value": 0.87,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS323": {
+    "pass_rate": {
+      "value": 0.7699999999999999,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS351": {
+    "pass_rate": {
+      "value": 0.89,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS310": {
+    "pass_rate": {
+      "value": 0.9099999999999999,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPE355": {
+    "pass_rate": {
+      "value": 0.88,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS380": {
+    "pass_rate": {
+      "value": 0.94,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS350": {
+    "pass_rate": {
+      "value": 0.9299999999999999,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS405": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS307": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS493": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS499": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS312": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS356": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS360": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS373": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS381": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS393": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS403": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS433": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS434": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS451": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS453": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPS460": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS465": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS466": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPE480": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.CMPE488": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.CMPS497": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "department.PKG_SOCBEH": {
+    "pass_rate": {
+      "value": 0.96,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 200,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.PKG_HUMFA": {
+    "pass_rate": {
+      "value": 0.96,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 200,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.PKG_NATSCI": {
+    "pass_rate": {
+      "value": 0.96,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 200,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "cs.PKG_CORE": {
+    "pass_rate": {
+      "value": 0.96,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 200,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.GENG107": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE261": {
+    "pass_rate": {
+      "value": 0.86,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.ELEC201": {
+    "pass_rate": {
+      "value": 0.89,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.MATH211": {
+    "pass_rate": {
+      "value": 0.92,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.ELEC351": {
+    "pass_rate": {
+      "value": 0.84,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.ELEC231": {
+    "pass_rate": {
+      "value": 0.87,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE363": {
+    "pass_rate": {
+      "value": 0.86,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE370": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.MATH217": {
+    "pass_rate": {
+      "value": 0.93,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE364": {
+    "pass_rate": {
+      "value": 0.86,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 36,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 3,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE457": {
+    "pass_rate": {
+      "value": 0.9,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE476": {
+    "pass_rate": {
+      "value": 0.84,
+      "source": "assumed",
+      "reasoning": "Known historically difficult gatekeeper course (algorithms/OS/architecture-level); assumed below-average pass rate.",
+      "confidence": "low"
+    },
+    "section_capacity": {
+      "value": 35,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.GENG360": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 40,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 4,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE498": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE462": {
+    "pass_rate": {
+      "value": 0.9400000000000001,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 5,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE499": {
+    "pass_rate": {
+      "value": 0.98,
+      "source": "assumed",
+      "reasoning": "Core major course with moderate difficulty; assumed mid-range pass rate.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 25,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 6,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPS485": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE399": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE470": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE471": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Freshman/gen-ed course; assumed high pass rate typical of introductory or non-technical courses.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE474": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE481": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE482": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE483": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE485": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "ce.CMPE487": {
+    "pass_rate": {
+      "value": 0.8,
+      "source": "assumed",
+      "reasoning": "Upper-level elective; assumed above-average pass rate since it is elected by students already through the core sequence.",
+      "confidence": "medium"
+    },
+    "section_capacity": {
+      "value": 30,
+      "source": "assumed",
+      "reasoning": "QU does not publish per-course seat capacities; assumed 35 for standard lecture sections, 20-25 for lab-heavy or capstone/practicum courses, 40 for large gen-ed lectures, based on typical QU classroom sizes.",
+      "confidence": "medium"
+    },
+    "sections_offered": {
+      "value": 1,
+      "source": "assumed",
+      "reasoning": "QU does not publish sections-offered-per-term counts; assumed 2-4 for high-demand introductory courses (CMPS151, CMPS251, CMPS303) that all majors must pass through, 1-2 for mid-level required courses, and 1 for narrow upper-level electives.",
+      "confidence": "medium"
+    }
+  },
+  "_program_level": {
+    "on_time_graduation_rate_baseline": {
+      "value": {
+        "cs": 0.64,
+        "ce": 0.58
+      },
+      "source": "assumed",
+      "reasoning": "QU publishes only a university-wide 150%-of-duration (6-year) graduation rate (57-74% for Fall 2012-2016 cohorts, data.gov.qa), not an 8-term on-time rate broken out by CS/CE. Values assumed below the university-wide 150% figures since on-time (100% of duration) rates are always lower than 150%-of-duration rates, and CE is assumed slightly lower than CS given its heavier per-term credit load (128 CH vs 120 CH).",
+      "confidence": "low"
+    },
+    "enrollment_growth_rate": {
+      "value": {
+        "cs": 0.272,
+        "ce": 0.137
+      },
+      "source": "real",
+      "reasoning": "Computed CAGR from real QU enrollment data 2017/18-2021/22 (data/raw/enrollment_real_data.json). Not an assumption -- included here only as the default seed value for the Enrollment Forecasting page.",
+      "confidence": "high"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "cohort": {
+    "cohort_size": 100,
+    "starting_term": "Fall 2024",
+    "global_pass_rate": 0.75,
+    "fail_rate": 0.15,
+    "withdrawal_rate": 0.10,
+    "default_section_capacity": 35,
+    "default_sections_per_course": 1,
+    "max_terms": 14,
+    "random_seed": 42,
+    "registration_priority": "credit-count-based"
+  },
+  "bottleneck": {
+    "capacity_reduction_options": [0.10, 0.20, 0.30, 0.50]
+  },
+  "monte_carlo": {
+    "n_runs": 1000,
+    "distribution": "beta",
+    "beta_alpha": 5,
+    "beta_beta": 2
+  },
+  "enrollment_forecast": {
+    "cs": {
+      "current_enrollment": 548,
+      "annual_growth_rate": 0.272,
+      "growth_rate_source": "real",
+      "growth_model": "logistic",
+      "forecast_horizon_years": 5
+    },
+    "ce": {
+      "current_enrollment": 571,
+      "annual_growth_rate": 0.137,
+      "growth_rate_source": "real",
+      "growth_model": "logistic",
+      "forecast_horizon_years": 5
+    }
+  },
+  "existing_population": {
+    "_comment": "Real QU headcounts per year level, 2021-2022 (most recent available; data/raw/enrollment_real_data.json). Used as the default 'students already enrolled today' snapshot for the ongoing/steady-state cohort engine -- faculty can override any of these via the Data Override panel or by importing a real per-student roster.",
+    "cs": {"1": 172, "2": 148, "3": 124, "4": 104, "source": "real"},
+    "ce": {"1": 190, "2": 151, "3": 125, "4": 104, "source": "real"}
+  },
+  "baseline_metrics_reference": {
+    "note": "Program-level 'on-time graduation rate' baselines used to sanity-check simulation output; see data/assumptions.json for reasoning (assumed, calibrated against the university-wide 150%-of-duration cohort rates of 57-74%, Fall 2012-2016, data.gov.qa).",
+    "cs_on_time_rate_assumed": 0.64,
+    "ce_on_time_rate_assumed": 0.58
+  }
+}

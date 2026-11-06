@@ -1,0 +1,1503 @@
+{
+  "program_id": "cs",
+  "program_name": "Computer Science BSc",
+  "total_credits_required": 120,
+  "college": "College of Engineering",
+  "required_courses": [
+    "MATH101",
+    "CHEM101",
+    "CHEM103",
+    "ENGL202",
+    "HIST121",
+    "MATH231",
+    "PHYS191",
+    "PHYS192",
+    "MATH102",
+    "ENGL203",
+    "CMPS200",
+    "PHYS193",
+    "PHYS194",
+    "ARAB100",
+    "GENG200",
+    "DAWA111",
+    "GENG300",
+    "MAGT101",
+    "CMPS151",
+    "CMPS251",
+    "CMPS205",
+    "CMPS303",
+    "CMPE263",
+    "CMPS323",
+    "CMPS351",
+    "CMPS310",
+    "CMPE355",
+    "CMPS380",
+    "CMPS350",
+    "CMPS405",
+    "CMPS307",
+    "CMPS493",
+    "CMPS499",
+    "PKG_SOCBEH",
+    "PKG_HUMFA",
+    "PKG_NATSCI",
+    "PKG_CORE"
+  ],
+  "elective_categories": [
+    {
+      "name": "Major Electives",
+      "credits_required": 12,
+      "options": [
+        "CMPS312",
+        "CMPS356",
+        "CMPS360",
+        "CMPS373",
+        "CMPS381",
+        "CMPS393",
+        "CMPS403",
+        "CMPS433",
+        "CMPS434",
+        "CMPS451",
+        "CMPS453",
+        "CMPS460",
+        "CMPS465",
+        "CMPS466",
+        "CMPE480",
+        "CMPE488",
+        "CMPS497"
+      ]
+    }
+  ],
+  "courses": {
+    "MATH101": {
+      "code": "MATH101",
+      "name": "Calculus I",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "First course in differential and integral calculus of one variable.",
+      "pass_rate": 0.91,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CHEM101": {
+      "code": "CHEM101",
+      "name": "General Chemistry I",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "General chemistry principles for engineering and science students.",
+      "pass_rate": 0.96,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CHEM103": {
+      "code": "CHEM103",
+      "name": "Experimental General Chemistry I",
+      "credits": 1,
+      "prerequisites": [],
+      "corequisites": [
+        "CHEM101"
+      ],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 20,
+      "sections_offered": 7,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Laboratory component accompanying CHEM 101.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "ENGL202": {
+      "code": "ENGL202",
+      "name": "English Language I – Post Foundation",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 25,
+      "sections_offered": 6,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Post-foundation English language and composition.",
+      "pass_rate": 0.88,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "HIST121": {
+      "code": "HIST121",
+      "name": "History of Qatar",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Survey of the history of Qatar.",
+      "pass_rate": 0.95,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "MATH231": {
+      "code": "MATH231",
+      "name": "Linear Algebra",
+      "credits": 3,
+      "prerequisites": [
+        "MATH101"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Elementary matrices, linear systems, vector spaces, determinants, eigenvalues, linear transformations.",
+      "pass_rate": 0.89,
+      "pass_rate_source": "assumed"
+    },
+    "PHYS191": {
+      "code": "PHYS191",
+      "name": "General Physics for Engineering I",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [
+        "MATH101"
+      ],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Mechanics for engineering students.",
+      "pass_rate": 0.92,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "PHYS192": {
+      "code": "PHYS192",
+      "name": "Experimental General Physics for Engineering I",
+      "credits": 1,
+      "prerequisites": [],
+      "corequisites": [
+        "PHYS191"
+      ],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 20,
+      "sections_offered": 7,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Laboratory component accompanying PHYS 191.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "MATH102": {
+      "code": "MATH102",
+      "name": "Calculus II",
+      "credits": 3,
+      "prerequisites": [
+        "MATH101"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Applications of the integral, techniques of integration, sequences and series.",
+      "pass_rate": 0.88,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "ENGL203": {
+      "code": "ENGL203",
+      "name": "English Language II – Post Foundation",
+      "credits": 3,
+      "prerequisites": [
+        "ENGL202"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 25,
+      "sections_offered": 6,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Continuation of ENGL 202.",
+      "pass_rate": 0.88,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS200": {
+      "code": "CMPS200",
+      "name": "Computer Ethics",
+      "credits": 1,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Legal and ethical issues involving computer technology.",
+      "pass_rate": 0.95,
+      "pass_rate_source": "assumed"
+    },
+    "PHYS193": {
+      "code": "PHYS193",
+      "name": "General Physics for Engineering II",
+      "credits": 3,
+      "prerequisites": [
+        "PHYS191",
+        "PHYS192"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Electricity and magnetism for engineering students.",
+      "pass_rate": 0.92,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "PHYS194": {
+      "code": "PHYS194",
+      "name": "Experimental General Physics for Engineering II",
+      "credits": 1,
+      "prerequisites": [],
+      "corequisites": [
+        "PHYS193"
+      ],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 20,
+      "sections_offered": 7,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Laboratory component accompanying PHYS 193.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "ARAB100": {
+      "code": "ARAB100",
+      "name": "Arabic Language I",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Foundational Arabic language course.",
+      "pass_rate": 0.93,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "GENG200": {
+      "code": "GENG200",
+      "name": "Probability and Statistics for Engineers",
+      "credits": 3,
+      "prerequisites": [
+        "MATH102"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 4,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Probability theory, random variables, distributions, statistical inference for engineers.",
+      "pass_rate": 0.9,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "DAWA111": {
+      "code": "DAWA111",
+      "name": "Islamic Culture",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 3,
+      "semester_position": 6,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Introduction to Islamic culture and civilization.",
+      "pass_rate": 0.95,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "GENG300": {
+      "code": "GENG300",
+      "name": "Numerical Methods",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS151",
+        "MATH102",
+        "MATH231"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 3,
+      "semester_position": 6,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Error analysis, roots of nonlinear equations, linear systems, curve fitting, numerical integration/differentiation.",
+      "pass_rate": 0.9,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "MAGT101": {
+      "code": "MAGT101",
+      "name": "Principles of Management",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 4,
+      "semester_position": 8,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Introduction to management principles.",
+      "pass_rate": 0.9,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS151": {
+      "code": "CMPS151",
+      "name": "Programming Concepts",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 1,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Problem solving, pseudo-code, algorithmic thinking, basic programming concepts.",
+      "pass_rate": 0.955,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS251": {
+      "code": "CMPS251",
+      "name": "Object-Oriented Programming",
+      "credits": 4,
+      "prerequisites": [
+        "CMPS151"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 1,
+      "semester_position": 2,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Object-oriented programming, design, abstraction, encapsulation, inheritance, polymorphism.",
+      "pass_rate": 0.87,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS205": {
+      "code": "CMPS205",
+      "name": "Discrete Structures for Computing",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Logic and proof, logic gates, Boolean algebra, set theory, relations, functions, combinatorics.",
+      "pass_rate": 0.94,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS303": {
+      "code": "CMPS303",
+      "name": "Data Structures",
+      "credits": 4,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 36,
+      "sections_offered": 3,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Fundamental data structures and algorithms: lists, stacks, queues, hash tables, trees, graphs.",
+      "pass_rate": 0.82,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPE263": {
+      "code": "CMPE263",
+      "name": "Computer Architecture and Organization I",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS205",
+        "CMPS151"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 4,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Data representation, CPU design, instruction-level architecture, memory hierarchy.",
+      "pass_rate": 0.87,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS323": {
+      "code": "CMPS323",
+      "name": "Design and Analysis of Algorithms",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS303",
+        "CMPS205"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 36,
+      "sections_offered": 3,
+      "year_level": 2,
+      "semester_position": 4,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Algorithm design and analysis: greedy, divide-and-conquer, backtracking, dynamic programming.",
+      "pass_rate": 0.7699999999999999,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS351": {
+      "code": "CMPS351",
+      "name": "Fundamentals of Database Systems",
+      "credits": 4,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 2,
+      "semester_position": 4,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Database concepts, data modeling, relational design, normalization, SQL.",
+      "pass_rate": 0.89,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS310": {
+      "code": "CMPS310",
+      "name": "Software Engineering",
+      "credits": 4,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 3,
+      "semester_position": 5,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Software process models, requirements, design, testing, project management.",
+      "pass_rate": 0.9099999999999999,
+      "pass_rate_source": "assumed"
+    },
+    "CMPE355": {
+      "code": "CMPE355",
+      "name": "Data Communication and Computer Networks I",
+      "credits": 4,
+      "prerequisites": [
+        "CMPE263"
+      ],
+      "corequisites": [
+        "GENG200"
+      ],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 36,
+      "sections_offered": 3,
+      "year_level": 3,
+      "semester_position": 5,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "TCP/IP, OSI model, transmission, Ethernet, IP addressing, transport/application layer protocols.",
+      "pass_rate": 0.88,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS380": {
+      "code": "CMPS380",
+      "name": "Cybersecurity Fundamentals",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 3,
+      "semester_position": 5,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Fundamental concepts of cybersecurity, vulnerabilities, preventive measures, cybersecurity law.",
+      "pass_rate": 0.94,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS350": {
+      "code": "CMPS350",
+      "name": "Web Development Fundamentals",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 35,
+      "sections_offered": 4,
+      "year_level": 3,
+      "semester_position": 6,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Web application concepts, HTML and related standards, client-side and server-side programming.",
+      "pass_rate": 0.9299999999999999,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS405": {
+      "code": "CMPS405",
+      "name": "Operating Systems",
+      "credits": 4,
+      "prerequisites": [
+        "CMPS303",
+        "CMPE263"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 36,
+      "sections_offered": 3,
+      "year_level": 3,
+      "semester_position": 6,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "OS components, concurrency, process management, synchronization, deadlock, memory management.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS307": {
+      "code": "CMPS307",
+      "name": "Introduction to Project Management and Entrepreneurship",
+      "credits": 2,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 40,
+      "sections_offered": 4,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Entrepreneurship and project management fundamentals for software/ICT projects.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS493": {
+      "code": "CMPS493",
+      "name": "Senior Project I",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS310"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 25,
+      "sections_offered": 6,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "First phase of the CS capstone project: problem definition, requirements, architecture, project plan.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS499": {
+      "code": "CMPS499",
+      "name": "Senior Project II",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS493"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 25,
+      "sections_offered": 6,
+      "year_level": 4,
+      "semester_position": 8,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Implementation phase of the capstone senior project.",
+      "pass_rate": 0.98,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS312": {
+      "code": "CMPS312",
+      "name": "Mobile Application Development",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Major elective: Mobile Application Development.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS356": {
+      "code": "CMPS356",
+      "name": "Web Application Design and Development",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS350"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Web Application Design and Development.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS360": {
+      "code": "CMPS360",
+      "name": "Data Science Fundamentals",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS151"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Data Science Fundamentals.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS373": {
+      "code": "CMPS373",
+      "name": "Computer Graphics",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS303"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Computer Graphics.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS381": {
+      "code": "CMPS381",
+      "name": "Applied Cryptography",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS380"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Major elective: Applied Cryptography.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS393": {
+      "code": "CMPS393",
+      "name": "Modeling and Simulation",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS303",
+        "GENG200"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Modeling and Simulation.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS403": {
+      "code": "CMPS403",
+      "name": "Artificial Intelligence",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS303"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Artificial Intelligence.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS433": {
+      "code": "CMPS433",
+      "name": "Multimedia Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS350"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Multimedia Systems.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS434": {
+      "code": "CMPS434",
+      "name": "Game Design and Development",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Game Design and Development.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS451": {
+      "code": "CMPS451",
+      "name": "Database Management Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS351"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Database Management Systems.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS453": {
+      "code": "CMPS453",
+      "name": "Data Mining",
+      "credits": 3,
+      "prerequisites": [
+        "GENG200",
+        "CMPS351"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Data Mining.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS460": {
+      "code": "CMPS460",
+      "name": "Machine Learning",
+      "credits": 3,
+      "prerequisites": [
+        "GENG200",
+        "CMPS303"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Major elective: Machine Learning.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS465": {
+      "code": "CMPS465",
+      "name": "Parallel Computing",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS405"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Parallel Computing.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPS466": {
+      "code": "CMPS466",
+      "name": "Information Retrieval",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS303"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Information Retrieval.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "CMPE480": {
+      "code": "CMPE480",
+      "name": "Computer Vision",
+      "credits": 3,
+      "prerequisites": [
+        "CMPS251"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Major elective: Computer Vision.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPE488": {
+      "code": "CMPE488",
+      "name": "Wireless Networks and Applications",
+      "credits": 3,
+      "prerequisites": [
+        "CMPE355"
+      ],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Major elective: Wireless Networks and Applications.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "CMPS497": {
+      "code": "CMPS497",
+      "name": "Special Topics in Computing",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 30,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": false,
+      "is_shared_with": [],
+      "description": "Major elective: Special Topics in Computing.",
+      "pass_rate": 0.8,
+      "pass_rate_source": "assumed"
+    },
+    "PKG_SOCBEH": {
+      "code": "PKG_SOCBEH",
+      "name": "Social/Behavioral Sciences Package",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 200,
+      "sections_offered": 1,
+      "year_level": 3,
+      "semester_position": 5,
+      "is_required": true,
+      "is_shared_with": [
+        "ce"
+      ],
+      "description": "Gen-ed package requirement; student selects one course from an approved list.",
+      "pass_rate": 0.96,
+      "pass_rate_source": "assumed",
+      "shared_course": true,
+      "shared_programs": [
+        "ce",
+        "cs"
+      ]
+    },
+    "PKG_HUMFA": {
+      "code": "PKG_HUMFA",
+      "name": "Humanities/Fine Arts Package",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 200,
+      "sections_offered": 1,
+      "year_level": 4,
+      "semester_position": 7,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Gen-ed package requirement; student selects one course from an approved list.",
+      "pass_rate": 0.96,
+      "pass_rate_source": "assumed"
+    },
+    "PKG_NATSCI": {
+      "code": "PKG_NATSCI",
+      "name": "Natural Science/Mathematics Package",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 200,
+      "sections_offered": 1,
+      "year_level": 3,
+      "semester_position": 5,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Gen-ed package requirement; student selects one course from an approved list.",
+      "pass_rate": 0.96,
+      "pass_rate_source": "assumed"
+    },
+    "PKG_CORE": {
+      "code": "PKG_CORE",
+      "name": "Core Knowledge and Skills Package",
+      "credits": 3,
+      "prerequisites": [],
+      "corequisites": [],
+      "offered_terms": [
+        "Fall",
+        "Spring"
+      ],
+      "section_capacity": 200,
+      "sections_offered": 1,
+      "year_level": 2,
+      "semester_position": 3,
+      "is_required": true,
+      "is_shared_with": [],
+      "description": "Gen-ed package requirement; student selects one course from an approved list.",
+      "pass_rate": 0.96,
+      "pass_rate_source": "assumed"
+    }
+  },
+  "roadmap": {
+    "Year 1 Fall": [
+      "CMPS151",
+      "CHEM101",
+      "CHEM103",
+      "MATH101",
+      "ENGL202",
+      "HIST121"
+    ],
+    "Year 1 Spring": [
+      "MATH231",
+      "CMPS251",
+      "PHYS191",
+      "PHYS192",
+      "MATH102",
+      "ENGL203"
+    ],
+    "Year 2 Fall": [
+      "CMPS200",
+      "CMPS303",
+      "PHYS193",
+      "PHYS194",
+      "CMPS205",
+      "ARAB100",
+      "PKG_CORE"
+    ],
+    "Year 2 Spring": [
+      "CMPS323",
+      "CMPS351",
+      "CMPE263",
+      "GENG200"
+    ],
+    "Year 3 Fall": [
+      "CMPS310",
+      "CMPE355",
+      "CMPS380",
+      "PKG_SOCBEH",
+      "PKG_NATSCI"
+    ],
+    "Year 3 Spring": [
+      "CMPS350",
+      "GENG300",
+      "CMPS405",
+      "DAWA111"
+    ],
+    "Year 4 Fall": [
+      "CMPS493",
+      "CMPS307",
+      "PKG_HUMFA"
+    ],
+    "Year 4 Spring": [
+      "CMPS499",
+      "MAGT101"
+    ]
+  },
+  "data_notes": [
+    "Credit hours, prerequisites, and degree requirements are real values from the QU Undergraduate Catalog 2026-2027 (data/source_documents/catalog.pdf).",
+    "Course placement in the roadmap combines the catalog's official Study Plan with the data/source_documents/cs_roadmap.png flowchart (2024 edition); minor differences between the two source years were reconciled in favor of the more recent catalog text.",
+    "Gen-ed elective packages (Social/Behavioral, Humanities/Fine Arts, Natural Science/Math, Core Knowledge and Skills) are represented by their catalog-listed anchor courses only; full package option lists are not modeled since they do not affect major-course bottleneck simulation.",
+    "section_capacity, sections_offered, and pass_rate are ASSUMED (not published by QU) -- see data/assumptions.json."
+  ]
+}

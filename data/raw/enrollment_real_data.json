@@ -1,0 +1,38 @@
+{
+  "cs_enrollment": {
+    "source_url": "https://www.qu.edu.qa/en-us/colleges/engineering/academics/computer/cs/enrollment",
+    "retrieved": "2026-07-13",
+    "by_year": {
+      "2017-2018": {"year1": 47, "year2": 70, "year3": 35, "year4": 57, "total": 209, "degrees_awarded": 41},
+      "2018-2019": {"year1": 62, "year2": 64, "year3": 52, "year4": 41, "total": 219, "degrees_awarded": 20},
+      "2019-2020": {"year1": 92, "year2": 91, "year3": 53, "year4": 59, "total": 295, "degrees_awarded": 21},
+      "2020-2021": {"year1": 167, "year2": 159, "year3": 76, "year4": 82, "total": 484, "degrees_awarded": 48},
+      "2021-2022": {"year1": 172, "year2": 148, "year3": 124, "year4": 104, "total": 548, "degrees_awarded": 51}
+    },
+    "derived_cagr_2017_to_2022": 0.272
+  },
+  "ce_enrollment": {
+    "source_url": "https://www.qu.edu.qa/en-us/colleges/engineering/academics/computer/ce/enrollment",
+    "retrieved": "2026-07-13",
+    "by_year": {
+      "2017-2018": {"year1": 86, "year2": 91, "year3": 69, "year4": 95, "total": 341, "degrees_awarded": 49},
+      "2018-2019": {"year1": 125, "year2": 136, "year3": 82, "year4": 88, "total": 431, "degrees_awarded": 49},
+      "2019-2020": {"year1": 223, "year2": 184, "year3": 103, "year4": 107, "total": 617, "degrees_awarded": 50},
+      "2020-2021": {"year1": 186, "year2": 177, "year3": 131, "year4": 93, "total": 587, "degrees_awarded": 51},
+      "2021-2022": {"year1": 190, "year2": 151, "year3": 125, "year4": 104, "total": 571, "degrees_awarded": 70}
+    },
+    "derived_cagr_2017_to_2022": 0.137
+  },
+  "qu_university_wide_150pct_graduation_rate_by_cohort": {
+    "source_url": "https://www.data.gov.qa/explore/dataset/qatar-university-150-graduation-rate-per-cohort/",
+    "retrieved": "2026-07-13",
+    "note": "University-wide (all majors), not CS/CE specific. 150% of standard duration = 6 years for a 4-year program. Used only as a calibration reference point for assumed program-level on-time/late graduation splits, not a direct input.",
+    "by_cohort": {
+      "Fall 2012": {"overall": 0.5777, "female": 0.6572, "male": 0.4122},
+      "Fall 2013": {"overall": 0.5715, "female": 0.6597, "male": 0.3971},
+      "Fall 2014": {"overall": 0.6542, "female": 0.7092, "male": 0.4846},
+      "Fall 2015": {"overall": 0.7358, "female": 0.7992, "male": 0.5303},
+      "Fall 2016": {"overall": 0.6701, "female": 0.7145, "male": 0.5434}
+    }
+  }
+}

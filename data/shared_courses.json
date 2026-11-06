@@ -1,0 +1,524 @@
+{
+  "ARAB100": {
+    "code": "ARAB100",
+    "name": "Arabic Language I",
+    "credits": 3,
+    "section_capacity": 40,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.93,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CHEM101": {
+    "code": "CHEM101",
+    "name": "General Chemistry I",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.96,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CHEM103": {
+    "code": "CHEM103",
+    "name": "Experimental General Chemistry I",
+    "credits": 1,
+    "section_capacity": 20,
+    "sections_offered": 7,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.98,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPE263": {
+    "code": "CMPE263",
+    "name": "Computer Architecture and Organization I",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.87,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPE355": {
+    "code": "CMPE355",
+    "name": "Data Communication and Computer Networks I",
+    "credits": 4,
+    "section_capacity": 36,
+    "sections_offered": 3,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.88,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPE480": {
+    "code": "CMPE480",
+    "name": "Computer Vision",
+    "credits": 3,
+    "section_capacity": 30,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPE488": {
+    "code": "CMPE488",
+    "name": "Wireless Networks and Applications",
+    "credits": 3,
+    "section_capacity": 30,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS151": {
+    "code": "CMPS151",
+    "name": "Programming Concepts",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.955,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS205": {
+    "code": "CMPS205",
+    "name": "Discrete Structures for Computing",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.94,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS251": {
+    "code": "CMPS251",
+    "name": "Object-Oriented Programming",
+    "credits": 4,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.87,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS303": {
+    "code": "CMPS303",
+    "name": "Data Structures",
+    "credits": 4,
+    "section_capacity": 36,
+    "sections_offered": 3,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.82,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS312": {
+    "code": "CMPS312",
+    "name": "Mobile Application Development",
+    "credits": 3,
+    "section_capacity": 30,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS380": {
+    "code": "CMPS380",
+    "name": "Cybersecurity Fundamentals",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.94,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS381": {
+    "code": "CMPS381",
+    "name": "Applied Cryptography",
+    "credits": 3,
+    "section_capacity": 30,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS405": {
+    "code": "CMPS405",
+    "name": "Operating Systems",
+    "credits": 4,
+    "section_capacity": 36,
+    "sections_offered": 3,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "CMPS460": {
+    "code": "CMPS460",
+    "name": "Machine Learning",
+    "credits": 3,
+    "section_capacity": 30,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.8,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "DAWA111": {
+    "code": "DAWA111",
+    "name": "Islamic Culture",
+    "credits": 3,
+    "section_capacity": 40,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.95,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "ENGL202": {
+    "code": "ENGL202",
+    "name": "English Language I – Post Foundation",
+    "credits": 3,
+    "section_capacity": 25,
+    "sections_offered": 6,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.88,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "ENGL203": {
+    "code": "ENGL203",
+    "name": "English Language II – Post Foundation",
+    "credits": 3,
+    "section_capacity": 25,
+    "sections_offered": 6,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.88,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "GENG200": {
+    "code": "GENG200",
+    "name": "Probability and Statistics for Engineers",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.9,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "GENG300": {
+    "code": "GENG300",
+    "name": "Numerical Methods",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.9,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "HIST121": {
+    "code": "HIST121",
+    "name": "History of Qatar",
+    "credits": 3,
+    "section_capacity": 40,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.95,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "MATH101": {
+    "code": "MATH101",
+    "name": "Calculus I",
+    "credits": 3,
+    "section_capacity": 40,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.91,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "MATH102": {
+    "code": "MATH102",
+    "name": "Calculus II",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.88,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "PHYS191": {
+    "code": "PHYS191",
+    "name": "General Physics for Engineering I",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.92,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "PHYS192": {
+    "code": "PHYS192",
+    "name": "Experimental General Physics for Engineering I",
+    "credits": 1,
+    "section_capacity": 20,
+    "sections_offered": 7,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.98,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "PHYS193": {
+    "code": "PHYS193",
+    "name": "General Physics for Engineering II",
+    "credits": 3,
+    "section_capacity": 35,
+    "sections_offered": 4,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.92,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "PHYS194": {
+    "code": "PHYS194",
+    "name": "Experimental General Physics for Engineering II",
+    "credits": 1,
+    "section_capacity": 20,
+    "sections_offered": 7,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.98,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  },
+  "PKG_SOCBEH": {
+    "code": "PKG_SOCBEH",
+    "name": "Social/Behavioral Sciences Package",
+    "credits": 3,
+    "section_capacity": 200,
+    "sections_offered": 1,
+    "offered_terms": [
+      "Fall",
+      "Spring"
+    ],
+    "pass_rate": 0.96,
+    "pass_rate_source": "assumed",
+    "programs": [
+      "ce",
+      "cs"
+    ],
+    "shared_course": true
+  }
+}

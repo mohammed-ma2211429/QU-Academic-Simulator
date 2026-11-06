@@ -1,0 +1,32 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+#
+# Deploys the whole app (FastAPI backend + built React frontend) as a single
+# web service, matching the existing "single command" local architecture:
+# main.py serves the built frontend/dist as static files alongside the API.
+#
+# To use: push this repo to GitHub, then in the Render dashboard choose
+# "New +" -> "Blueprint" and point it at the repo. Render reads this file
+# and provisions the service automatically.
+#
+# The AI Assistant is optional and OFF by default. To turn it on later, add an
+# environment variable GROQ_API_KEY (and, if needed, update MODEL in
+# backend/chatbot/agent.py) in the service's Environment tab. The key is
+# intentionally not in this file or in version control. Every simulation
+# works without it.
+
+services:
+  - type: web
+    name: qu-academic-simulator
+    runtime: python
+    plan: free
+    region: oregon
+    buildCommand: >-
+      pip install -r backend/requirements.txt &&
+      cd frontend && npm ci && npm run build
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/programs
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.4
+      - key: NODE_VERSION
+        value: 20

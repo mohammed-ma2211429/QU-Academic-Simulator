@@ -1,0 +1,2857 @@
+CMPS 101 Introduction to Computer Science  
+Credit Hours: 3  
+Fundamental concepts of computer systems organization, logic, and algorithmic problem solving. Lab session: 
+problem solving with fundamental components of a modern programming language.  
+ 
+CMPS 151 Programming Concepts  
+Credit Hours: 3  
+Problem solving techniques such as pseudo-code or flowcharts, algorithmic thinking. Basic programming 
+concepts including variables, arithmetic and logical operations, input/output, conditional statements, loops, 
+arrays, functions, and file processing. The laboratory provides a practical programming experience.  
+  
+CMPS 185 Introduction to Cybersecurity  
+Credit Hours: 3  
+This course introduces the fundamental concepts of cybersecurity. It focuses on analyzing scenarios to identify 
+security-related problems, investigating vulnerabilities and proposing preventive measures. It equips students 
+with the knowledge of best practices in cybersecurity and the skills to analyze vulnerabilities and apply basic 
+theories and preventive measures through group projects and reflection reports. The course explores 
+cybersecurity laws and contemporary regional and global cybersecurity threats and how they affect individuals 
+and organizations.  
+ 
+ 
+  
+CMPS 200 Computer Ethics  
+Credit Hours: 1  
+Legal and ethical issues involving computer technology. Emphasis on ethical decision-making with application 
+to case studies, professional codes of ethics, legal and ethical responsibilities of computer science professionals, 
+accountability, whistleblowing, cybercrimes, ethical aspects of information security and privacy, and intellectual 
+property rights.  
+  
+CMPS 205 Discrete Structures for Computing  
+Credit Hours: 3  
+Introduction to the elements of mathematics applicable to the computing field. Logic and methods of proof; 
+logic gates; Boolean algebra and minimization; set theory; relations and functions; sequences and sums; 
+induction; numbering systems and combinatorics.  
+  
+=== PAGE 850 ===
+  
+ 
+850 
+ 
+ Undergraduate Catalog 2026-2027 
+CMPS 251 Object-Oriented Programming  
+Credit Hours: 4  
+Fundamentals of object-oriented programming, object-oriented design, apply object-oriented concepts such as 
+abstraction, encapsulation, composition, inheritance, polymorphism, and interfaces. Graphical user interface 
+and event-driven programming; exception handling; additional object-oriented features. The laboratory provides 
+practical object-oriented programming experience.  
+  
+Prerequisite:  
+CMPS 151 OR GENG 106  
+  
+CMPS 303 Data Structures  
+Credit Hours: 4  
+Fundamental data structures and algorithms and their efficient implementation and application to problem 
+solving. Linked lists, stacks, queues, hash tables, trees and graphs. Develop and analyze iterative and recursive 
+algorithms such as searching and storing algorithms. The laboratory provides practical experience with data 
+structures and algorithms.  
+  
+Prerequisite:  
+CMPS 251 OR CMPE 265  
+  
+CMPS 307 Introduction to Project Management and Entrepreneurship   
+Credit Hours: 2  
+Introduction to entrepreneurship, and elements of business management with emphasis on managing software 
+and information and communication technologies projects. Concepts of project management; project plan 
+development, progress tracking, staffing, leadership, conflict resolution; organization, costs, risks, control; 
+entrepreneurship, basics of owning and operating a business, business plan development for starting and 
+financing a small business.  
+  
+CMPS 310 Software Engineering  
+Credit Hours: 4  
+Fundamental concepts, principles and techniques for cost-effective engineering of quality software. Software 
+process models, requirements specification, domain analysis, software design and modeling of structural and 
+behavioral aspects of a software system using a common modeling language, implementation, testing and 
+software project management. The laboratory provides practical experience with software engineering and 
+supporting tools.  
+  
+Prerequisite :  
+CMPS 251  
+  
+CMPS 312 Mobile Application Development  
+Credit Hours: 3  
+=== PAGE 851 ===
+  
+ 
+851 
+ 
+ Undergraduate Catalog 2026-2027 
+Concepts, principles, design strategies, tools and frameworks to design and develop mobile applications on 
+modern mobile platforms that make use of key mobile sensors and system services and connect to online data 
+sources and Web services. Hands on experience in designing and constructing mobile apps using a mainstream 
+development platform and framework such as Android or iOS.   
+  
+Prerequisite:  
+CMPS 251  
+  
+CMPS 323 Design and Analysis of Algorithms  
+Credit Hours: 3  
+Analysis, design, and efficiency of algorithms illustrated by a comprehensive exposure to fundamental 
+algorithms and various adopted techniques to solve different types of problems. Analysis of sorting, searching, 
+and other algorithms; designing algorithms using techniques for problem-solving such as greedy methods, 
+divide-and-conquer, backtracking, dynamic programming, and branch-and-bound techniques; complexity of 
+algorithms.  
+  
+Prerequisite:  
+CMPS 303 AND CMPS 205  
+  
+CMPS 350 Web development Fundamentals  
+Credit Hours: 3  
+Concepts, protocols and enabling technologies related to the development of modern web applications. 
+Fundamentals of designing and developing dynamic and interactive web applications using HTML and related 
+standards, scripting languages, client-side and server-side programming. Hands-on Lab to design and develop 
+Web applications.  
+  
+Prerequisite:  
+CMPS 251    
+  
+CMPS 351 Fundamentals of Database Systems  
+Credit Hours: 4  
+Fundamentals database concepts, architectures, principles and techniques. Data modeling, relational database 
+design and normalization. Query notations and languages including relational algebra, relational calculus and 
+SQL. Database security. Hands-on Labs in modeling and implementing database applications using modern 
+technologies.  
+  
+Prerequisite:  
+CMPS 251    
+ 
+CMPS 356 Web Application Design and Development  
+Credit Hours: 3  
+=== PAGE 852 ===
+  
+ 
+852 
+ 
+ Undergraduate Catalog 2026-2027 
+This course focuses on the principles, architectures, and technologies for designing and developing modern web 
+applications using client-side and server-side frameworks, web access to data sources and cloud services, 
+development and integration of web services. It also includes Hands-on lab using latest web development 
+frameworks and tools to design, implement, test, deploy, scale, and secure web applications.  
+  
+Prerequisite:  
+CMPS 350  
+ 
+CMPS 360 Data Science Fundamentals  
+Credit Hours: 3  
+Fundamental principles, algorithms, and methods of data science. Topics include the data science lifecycle, data 
+acquisition and representativeness, exploratory analysis, visualization, sampling, statistical inference, 
+hypothesis testing, and causal reasoning. Core analytical techniques such as regression, classification, and 
+predictive modeling are introduced. Data ethics, including privacy, fairness, and responsible data use, are 
+emphasized throughout. Hands-on projects using real-world datasets develop practical skills in analyzing, 
+visualizing, and communicating data-driven insights with modern data science tools.  
+  
+Prerequisite:  
+CMPS 151 
+  
+CMPS 373 Computer Graphics  
+Credit Hours: 3  
+Fundamental concepts of computer graphics illustrated with programming applications using a graphics 
+package or tool. Graphics systems types, architectures and graphical objects; applications of computer graphics; 
+graphics programmer’s interface; designing and rendering 2D and 3D graphical objects (geometric 
+transformations, viewing, shading, discrete techniques, buffers and mappings).  
+  
+Prerequisite:  
+CMPS 303  
+  
+CMPS 381 Applied Cryptography   
+Credit Hours: 3  
+Introduction to cryptography, its mathematical foundations, and its applications to secure data and systems.  
+Cryptographic primitives such as symmetric encryption, asymmetric encryption, hashing, message 
+authentication codes, digital signatures and cryptographic protocols. Modern applications of cryptography.  
+  
+Prerequisite:  
+CMPS 380 OR CMPS 385  
+  
+CMPS 385 Computer Security   
+Credit Hours: 3  
+=== PAGE 853 ===
+  
+ 
+853 
+ 
+ Undergraduate Catalog 2026-2027 
+Fundamentals of information security. Risks and vulnerabilities, controls and protection methods, cryptography, 
+authentication, host-based and network-based security issues, privacy, legal and ethical implications.  
+  
+CMPS 393 Modeling & Simulation  
+Credit Hours: 3  
+Fundamentals of studying systems by modeling and simulation focusing on developing discrete-event 
+simulations. Reasons for simulation, basic simulation modeling; systems modeling; developing discrete-event 
+simulations; queuing models; random number generators, generating random varieties; analysis of simulation 
+data; verification and validation of simulation models  
+ 
+Prerequisite:  
+CMPS 303 AND GENG 200  
+  
+CMPS 399 Practical Training  
+Credit Hours: 0  
+Supervised training experience centered on a computer science project, guided by industry practitioners. 
+Assessment is based on project deliverables and mentor evaluation. Concentration students are required to work 
+on a topic related to their concentration area.  
+  
+CMPS 403 Artificial Intelligence  
+Credit Hours: 3  
+Fundamental concepts of artificial intelligence, logic, and knowledge representation with associated algorithms 
+and techniques supported by logic programming applications. Motivation for logic and knowledge 
+representation by horn clauses; logic and propositional equivalencies; predicates and quantifiers; matching, 
+backtracking, forward and backward chaining; logic programming applications.  
+Prerequisite:  
+CMPS 303  
+  
+CMPS 405 Operating Systems  
+Credit Hours: 4  
+Fundamental concepts of operating system design and implementation. Operating system components, 
+concurrency, process management and inter-process communication, process synchronization, deadlock, 
+scheduling algorithms, memory management, input/output and file systems, protection and security. The 
+laboratory provides practical experience on major operating system concepts.  
+ 
+Prerequisite:  
+CMPS 303 AND CMPE 263  
+  
+CMPS 433 Multimedia Systems  
+Credit Hours: 3  
+=== PAGE 854 ===
+  
+ 
+854 
+ 
+ Undergraduate Catalog 2026-2027 
+Learn of analog and digital representation of information and the concept of digitization. Study about various 
+types of multimedia objects and their characteristics, formats, and associated algorithms for text, images, 
+graphics, audio, and video. Fundamentals of data compression, animation, and human-computer interaction. 
+Gain hands-on experience on manipulation of multimedia objects with programming.  
+  
+Prerequisite:  
+CMPS 350  
+  
+CMPS 434 Game Design and Development  
+Credit Hours: 3  
+Concepts, principles, design strategies and tools to design and develop digital games with interactivity, 
+animation, sound and visual effects. Introduce and practice the game design process including core mechanics, 
+storytelling, game play, game balancing and level design. In-class hands-on tutorials on game implementation 
+fundamentals using a standard game engine, including creating game characters and objects, 3D modeling and 
+animation, use of physics, interaction and interface design, basics of lighting, creating visual effects..  
+  
+Prerequisite:  
+CMPS 251  
+  
+CMPS 445 Compiler Construction  
+Credit Hours: 3  
+Theoretical and technical aspects needed to construct compilers and interpreters illustrated by a comprehensive 
+study of the design and implementation for a mini language. Fundamentals of compilers and interpreters; 
+syntactic and lexical analysis; handling user-defined types and type checking; context analysis; code generation 
+and optimization; memory management and run-time organization.  
+  
+Prerequisite:  
+CMPS 303  
+ 
+CMPS 451 Database Management Systems  
+Credit Hours: 3  
+Database Management Systems features including hashing, indexing and physical database design. Query 
+processing and optimization. Transaction management, concurrency control, and recovery. Non-relational, 
+distributed, and big data management. Database programming techniques.  
+  
+Prerequisite:  
+CMPS 351  
+  
+CMPS 453 Data mining  
+Credit Hours: 3  
+=== PAGE 855 ===
+  
+ 
+855 
+ 
+ Undergraduate Catalog 2026-2027 
+Principles concepts of data mining techniques and their practical application in pattern recognition and 
+knowledge discovery from large data sets. Fundamental strategies and methodologies of various classification, 
+clustering, association rules extraction algorithms applied on tabular data sets. Hands-on experience with a 
+variety of different data mining tools.  
+  
+Prerequisite:  
+GENG 200 AND CMPS 351  
+  
+CMPS 460 Machine Learning  
+Credit Hours: 3  
+Fundamental principles of machine learning, supervised learning, unsupervised learning, instance-based 
+learning, decision tree induction, Bayesian inference, support vector machines, multi-layer neural networks, and 
+performance evaluation of machine learning algorithms. Hands-on experience with implementing machine 
+learning applications.   
+ 
+Prerequisite:  
+GENG 200 AND CMPS 303  
+  
+CMPS 465 Parallel Computing  
+Credit Hours: 3  
+Fundamental concepts and practical aspects underlying the design and engineering of modern parallel 
+computing systems including system models and enabling technologies, parallel architectures, parallelization 
+strategies, parallel algorithms and their applications, optimization and performance, implementation 
+frameworks and languages, programming models and design principles for parallel and distributed computing. 
+Students acquire hands-on experience in the design and development of parallel and distributed computing 
+systems.   
+  
+Prerequisite:  
+CMPS 405  
+ 
+  
+CMPS 466 Information Retrieval  
+Credit Hours: 3  
+Fundamental concepts, techniques, and strategies in information retrieval. Topics include text representation and 
+preprocessing, indexing, query processing and expansion, classical and modern ranking models, dense retrieval, 
+evaluation methods, search engines, and retrieval-augmented generation.   
+  
+Prerequisite:  
+CMPS 303 OR CMPS 360 
+  
+CMPS 481 Enterprise Cybersecurity  
+=== PAGE 856 ===
+  
+ 
+856 
+ 
+ Undergraduate Catalog 2026-2027 
+Credit Hours: 3  
+Enterprise cybersecurity principles and practices, threat models, security risk assessment, cyber threat 
+intelligence. Designing, implementing and managing enterprise security program to protect enterprise assets 
+and systems by integrating technical controls with policies, incident response, cybersecurity governance, best 
+practices, and standards of cybersecurity.  
+  
+Prerequisite:  
+CMPS 385 OR CMPS 380  
+  
+CMPS 482 Cyber Physical Systems Security    
+Credit Hours: 3  
+Principles and practices to secure various types of cyber-physical systems including industrial control systems 
+and IoT (Internet of Things) solutions. Tools and techniques used to compromise cyber-physical systems.  
+Fundamental security primitives for protecting cyber-physical systems.  
+Prerequisite:  
+CMPS 385 OR CMPS 380  
+  
+CMPS 483 Digital Forensics   
+Credit Hours: 3  
+Principles and practices of digital forensics. Cybercrime, digital investigation, forensic acquisition, data 
+recovery, digital evidence, forensic imaging, and state of the art forensics techniques and tools. Digital forensics 
+legal and ethical implications.   
+  
+Prerequisite:  
+CMPS 385 OR CMPS 380  
+  
+CMPS 485 Network Security  
+Credit Hours: 3  
+Network security principles and practices. Network vulnerability assessment, common attacks against network 
+protocols and services. Wireless, TCP/IP and application layer security. Network security defense including 
+secure network design, network authentication protocols, intrusion detection, firewalls, Virtual Private 
+Networks (VPN) and network security policies.  
+  
+Prerequisite:  
+CMPE 355 AND (CMPS 380 OR CMPS 385)  
+  
+CMPS 489 Special Topics in Cybersecurity   
+Credit Hours: 3  
+Specialized or emerging cybersecurity topics. Topics vary.  
+  
+Prerequisite:  
+=== PAGE 857 ===
+  
+ 
+857 
+ 
+ Undergraduate Catalog 2026-2027 
+CMPS 380 OR CMPS 385  
+  
+CMPS 493 Senior Project I  
+Credit Hours: 3  
+The first phase of the computer science capstone project that involves number of students tackling different 
+aspects of applied research and/or development project requiring significant effort for planning and completion. 
+Team members experience different roles and gain range of diverse technical skills in all phases of the project 
+development. This first part focuses on problem definition, requirements gathering and analysis, defining a high 
+level architecture of the proposed solution, preparation of a project plan for implementing and completing the 
+project, compiling all in a well-formulated interim report and orally presenting it to the examining committee.   
+  
+Prerequisite:  
+Department Approval AND CMPS 310  
+ 
+CMPS 497 Special Topics in Computing  
+Credit Hours: 3  
+Selected topics in computing concerning content not normally covered in the formal curriculum. Topics vary  
+  
+CMPS 499 Senior Project II  
+Credit Hours: 3  
+Continuation of the capstone senior project started in CMPS 493 course. It includes detailed design, 
+implementation and testing following a systematic development process while incorporating appropriate design 
+and development principles and standards. This culminates in producing a working solution and a formal final 
+report, and presenting the project achievements including a demo.   
+  
+Prerequisite:  
+CMPS 493  
+ 
+ 
+COCH 131 Coaching Track and Field  
+Credit Hours: 1 
+Equipping students with the knowledge and skills to excel as track and field coaches. This course covers 
+practice and game planning, training program development, equipment management, transportation 
+coordination, record-keeping, discipline enforcement, and ensuring a safe athletic environment. Graduates will 
+be prepared to lead and inspire athletes while maximizing their performance in the dynamic world of track and 
+field. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 132 Fitness Coaching  
+=== PAGE 858 ===
+  
+ 
+858 
+ 
+ Undergraduate Catalog 2026-2027 
+Credit Hours: 1 
+This course provides students with the essential knowledge and skills required to coach individuals in achieving 
+optimal fitness levels. It covers various exercise modes, intensities, and dietary strategies to enhance exercise 
+performance, adaptation, and overall well-being. Additionally, students will learn conditioning methods, 
+exercise techniques, and fitness appraisal, equipping them to guide athletes and individuals towards their fitness 
+goals effectively. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 133 Coaching Football 
+Credit Hours: 1 
+The course introduces the students to Football as a team sport. Through practical experience and` theoretical 
+reflection, the students should develop their knowledge, skills and understanding of Football and be able to 
+apply this in the coaching and promotion context. The students will examine a range of issues that currently 
+influence coaching, learning and promotion of such a team sport. In addition, they are acquainted with the 
+necessities of acquiring coaching and judging competencies. The course will  
+lso enable students to understand the mechanisms of organizing and managing sport tournaments in football. 
+Students will also be familiar with the rules and regulations of these two sport as they governed by the 
+international governing body of association football. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 134 Coaching Basketball  
+Credit Hours: 1 
+This course aims to provide students with sufficient knowledge of basketball through applied theoretical study 
+that enables them to learn those games, acquire their skills and understand the international rules and 
+regulations that govern the games. Students will learn how to coach, referee and organize the game. The course 
+covers methods of coaching fundamental skills of basketball and game plans and strategies. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 135 Coaching Racquet Sport  
+Credit Hours: 1 
+The course introduces students to a typical example for racquet sport. Through practical experience and 
+theoretical reflection, the students should develop their knowledge, skills and understanding of such individual 
+sport (racquet sport). The students will examine a range of issues that currently influence coaching, learning, 
+and promotion of individual sport by this selected example of racquet sport. In addition, they are acquainted 
+with the necessities of acquiring coaching and judging competencies in racquet sport. 
+ 
+=== PAGE 859 ===
+  
+ 
+859 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 136 Coaching Swimming/Pool Lifeguarding  
+Credit Hours: 1 
+A comprehensive course that blends theory and practical sessions to provide students with a deep understanding 
+of swimming principles. It covers national curriculum requirements, safety concerns, stroke improvement 
+techniques, and other aquatic skills. Through group teaching and observation, students develop planning, 
+teaching, and assessment abilities. They also gain practical coaching experience under the governing body for 
+swimming. The course emphasizes aquatic safety and recreation, including drowning prevention and 
+responsible behavior in aquatic environments. Additionally, it focuses on personal swimming proficiency and 
+the relevant physiological and mechanical principles for aquatic performance. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 137 Coaching Tennis   
+Credit Hours: 1 
+This course aims at providing students with information about the history, evolution, and development of 
+Tennis. The course of study provides students with opportunities to learn and develop their skills, gaining 
+experiences of arbitration and organizing tournaments. The course reviews tennis basic skills, their technical 
+and instructional steps as well as their basic playing plans and strategies. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 138 Coaching Volleyball 
+Credit Hours: 1 
+This course aims to provide students with sufficient knowledge of volleyball through applied theoretical study 
+that enables them to learn those games, acquire their skills and understand the international rules and 
+regulations that govern the games. Students will learn how to coach, referee and organize the game. The course 
+covers methods of coaching fundamental skills of volleyball and game plans and strategies. 
+ 
+Prerequisite:  
+GNSP 206  
+ 
+COCH 220 Functional Anatomy and Basic Physical Physiology 
+Credit Hours: 3 
+This course provides information on the structure and function of the human body, with special emphasis on the 
+skeletal, muscular, cardiovascular, respiratory and nervous systems. An idea of the endocrine glands and the 
+digestive system will also be given. In this course, students learn about the structure of the human body, 
+=== PAGE 860 ===
+  
+ 
+860 
+ 
+ Undergraduate Catalog 2026-2027 
+including molecules, cells, tissues, organs, and their basic physiological functioning. Laboratory work includes 
+computer simulations and interactive programs of physiological aspects  
+f the human body. This course aims to identify and explain the basic concepts of the most important anatomical 
+parts of the human body related to physical activity. It also discusses the functional aspects of each part with an 
+emphasis on applying this knowledge to human motor performance. 
+ 
+COCH 225 Biomechanics and Functional Kinesiology 
+Credit Hours: 3 
+This course offers a deep dive into the intricate science of human movement, spanning from molecular 
+processes to whole-body dynamics. Students will gain expertise in understanding the metabolic intricacies 
+triggered by exercise, including fuel mobilization, transport, and oxidation, and explore the complex interplay 
+between various organs during physical activity. The course also investigates the body's responses to exercise. 
+Furthermore, it provides a solid foundation in kinematics and kinetics, with a specific focus on their 
+applications. Students will develop proficiency in collecting and analyzing biomechanical data, along with a 
+quantitative assessment of muscle-generated forces and their role in orchestrating and controlling human 
+movement. 
+ 
+COCH 227 Psychosocial Aspects of Physical Activity 
+Credit Hours: 3 
+This course investigates character development and moral values in the context of sport and exercise. It 
+explores models of morality, the growth of moral principles, and the concept of sportsmanship within physical 
+activity settings. The course also examines the influence of psychosocial factors on both prosocial and antisocial 
+behaviors in sport and exercise, as well as ethical dilemmas like the use of performance-enhancing substances. 
+Furthermore, it explores how sport and exercise interventions can be employed to foster positive youth 
+development and essential life skills in various social initiatives. 
+ 
+Prerequisite: 
+ (GNSP 101 and GNSP 206 and GNSP 208) OR EDPE 210 
+ 
+ 
+ 
+ 
+COCH 229  Sport Injuries 
+Credit Hours: 3 
+This course covers the identification, evaluation, treatment, and referral of traumatic injuries and sudden 
+medical issues. It also emphasizes preventing athletic injuries through measures like protective equipment, safe 
+environments, and adequate supervision. Additionally, the course addresses legal aspects of athletic training and 
+provides training in handling common emergencies, including airway blockages, CPR, defibrillation, injuries, 
+and medical crises. 
+ 
+Prerequisite:  
+COCH 225 OR EDPE 210 
+=== PAGE 861 ===
+  
+ 
+861 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+COCH 240 Principle and Practice of Sport 1 
+Credit Hours: 3 
+This course is designed mainly to provide students with the necessary teaching skills to introduce the games of 
+football and handball to students, and enable them to become eligible practitioners working in the education 
+sector. The course aims at developing understanding of the principles of learning and teaching the basic skills in 
+football and handball. It will also enable them to understand the mechanisms of organizing and managing sports 
+tournaments in football and handball. Students will also be familiar with the rules and regulations of these two 
+sports as they governed by the International Federations for football and handball. 
+ 
+COCH 280 Principle and Practice of Sport 2 
+Credit Hours: 3 
+This course aims to provide students with sufficient knowledge of basketball and volleyball through applied 
+theoretical study that enables them to learn those games acquire their skills and understand the international 
+rules and regulations that govern the games. Students will learn how to teach, referee and organize the game. 
+The course covers methods of teaching fundamental skills of basketball and volleyball and game plans and 
+strategies . 
+ 
+COCH 321 Measurement and Evaluation 
+Credit Hours: 3 
+This course is designed to equip aspiring coaches with the skills to assess and evaluate athletes' performance 
+and progress effectively. This course covers objective measurement techniques, test construction, and grading 
+methods specific to the world of sport. Through practical hands-on experiences and critical analysis of coaching 
+practices, students will learn how to use data-driven insights to enhance athletes' development. This course is 
+essential for coaches looking to fine-tune their coaching strategies and optimize their athletes' performance 
+outcomes. 
+ 
+COCH 322 Exercise Physiology 
+Credit Hours: 3 
+This course delves into the body's physiological responses to exercise and environmental factors. It examines 
+the interconnected functions of the nervous, muscular, metabolic, respiratory, and cardiovascular systems in 
+both acute and chronic exercise scenarios. This course offers a fundamental understanding of physiological 
+regulation in various states, including rest, exercise, and disease. Topics covered include muscle bioenergetics, 
+cardiopulmonary responses, and exercise in different environmental conditions. Students will gain insights into 
+how the cardiovascular and respiratory systems operate during exercise, along with a deep understanding of 
+muscle function, bioenergetics, and hormonal responses to physical activity. 
+ 
+Prerequisite: 
+(GNSP 101 and GNSP 206 and GNSP 208) OR EDPE 220 OR COCH 220 
+ 
+COCH 323 Performance Analysis 
+Credit Hours: 3 
+=== PAGE 862 ===
+  
+ 
+862 
+ 
+ Undergraduate Catalog 2026-2027 
+Advanced course that enhances research skills and explores in-depth data analysis techniques. It covers research 
+design, data collection, data science, statistical analysis, and qualitative data analysis. Additionally, the course 
+focuses on evaluating athlete performance, coaching interventions, and designing high-performance training 
+programs based on sport profiles and gap analyses. Students will gain expertise in planning at various levels to 
+support athlete development 
+ 
+COCH 324 Motor Learning and Control 
+Credit Hours: 3 
+Motor Learning and Control is a course that delves into the coordination of complex movements. It combines 
+theories from motor control and biomechanics to provide a comprehensive understanding. This course addresses 
+the challenge of bridging theory and practical application. It covers motor skill acquisition, theoretical 
+frameworks, and psychomotor development, offering insights into how humans learn and control movement. 
+ 
+COCH 325 Nutrition for Athletics 
+Credit Hours: 3 
+This course provides students with a comprehensive understanding of the essential role nutrition plays in 
+optimizing physical fitness, recovery, and overall well-being for athletes of all levels. Students will explore the 
+science of sport nutrition and the impact of dietary choices on energy levels, muscle development, endurance, 
+and injury prevention. They will learn how to design customized nutrition plans for athletes, considering their 
+unique needs, goals, and dietary preferences. 
+ 
+COCH 326 Adaptive Sport and Physical Activity  
+Credit Hours: 3 
+This course offers a comprehensive overview, encompassing exercise physiology principles, adaptive sport 
+techniques, and strategies for individuals with diverse abilities. Through hands-on experiences and critical 
+analysis, students will gain valuable insights into how physical activity impacts health, performance, and 
+inclusivity.  
+ 
+Prerequisite:  
+COCH225 OR COCH 220 OR EDPE 220 
+ 
+ 
+ 
+COCH 330 Principle and Practice of Sport 3 
+Credit Hours: 3 
+The course introduces students to the main swimming strokes and various methods of teaching beginners. The 
+course attempts to develop students’ knowledge of aquatics sports and covers aspects such as developing self-
+confidence in learning swimming, systems of energy production in competitive swimming for short and long 
+distances and the biomechanics of various swimming techniques. In addition, the course introduces students to 
+practical aspects such as floating, kicking, breathing, starting-up and turns. 
+ 
+COCH 390 Principle and Practice of Sport 4 
+=== PAGE 863 ===
+  
+ 
+863 
+ 
+ Undergraduate Catalog 2026-2027 
+Credit Hours: 3 
+This course is designed to develop the teaching skills of students who are trained to work in the education 
+sector. This course deals with the place of gymnastics in the school’s physical education curriculum. It explores 
+the different types of gymnastics, focusing on the technical aspects of performing of the basic and main skills 
+on the floor as well as the various apparatus. Also, it develops students and understanding and appreciation of 
+health and safety regulations, support techniques and aiding methods on these apparatus. The course also covers 
+the theoretical and practical foundations of floor and apparatus exercises and routine, as well as their usage 
+gymnastic exercises to develop numerous physical capacities. 
+ 
+COCH 422 Psychology of Peak Performance 
+Credit Hours: 3 
+This course explores the psychology of human behavior and performance in sport and high-pressure situations. 
+Students will delve into key concepts like motivation, individual differences, managing performance under 
+pressure, psychological skill development, and team dynamics, all of which play pivotal roles in optimizing 
+athletic success. The course equips future coaches with valuable insights into harnessing the psychological 
+aspects of performance to help athletes reach their peak potential. 
+ 
+Prerequisite:  
+COCH227 
+ 
+COCH 424 Weight Training Strength and Conditioning 
+Credit Hours: 3 
+The course focuses on the core principles of strength and conditioning within the context of sport rehabilitation. 
+It covers essential concepts such as pre-participation health screening, a wide array of strength and conditioning 
+training methods, and the development of exercise prescriptions. Additionally, students will gain expertise in 
+training periodization and Olympic lifting techniques, enabling them to take a clinically informed and evidence-
+based approach to designing strength and conditioning programs. This course provides both the scientific 
+knowledge and hands-on practice needed to excel in the field of strength and conditioning. 
+ 
+COCH 426 Advanced Athletic Injuries 
+Credit Hours: 3 
+An advanced course designed to provide a deep and comprehensive understanding of injuries, illnesses, and 
+diseases in the context of athletic populations. It goes beyond the basics, delving into the intricacies of medical 
+diagnostics, interventions, including pharmacological approaches, and the unique considerations required for 
+athletes. Moreover, the course introduces advanced concepts related to comprehensive rehabilitation programs. 
+This includes setting precise therapeutic goals, selecting appropriate 
+exercises, evaluating and recording progress, and establishing criteria for athletes' return to competition. It also 
+explores the physiological effects of trauma, wound healing, and periods of inactivity or immobilization on 
+athletic performance. 
+ 
+Prerequisite:  
+COCH 229 
+=== PAGE 864 ===
+  
+ 
+864 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+COCH 428 Motivational Climate 
+Credit Hours: 3 
+The course delves into the complex factors that drive participation, performance, and persistence in sport and 
+exercise. Students gain a deep understanding of motivational theories and empirical research specific to 
+physical activities, enabling them to design effective interventions for promoting physical activity. Additionally, 
+this course equips future coaches with pedagogical skills and knowledge to create developmentally appropriate 
+learning environments for physical activities across various settings 
+ fostering athlete motivation and success.  
+ 
+Prerequisite:  
+GNSP 208 
+ 
+COCH 440 Principle and Practice of Sport 5 
+Credit Hours: 3  
+This course is designed to introduce students to the sport of athletics and provides them with the knowledge and 
+skills required to plan, organize and deliver physical education lessons covering the major track and field 
+events. The course aims to provide students with the necessary skills required for teaching and training track 
+and field events for different age groups. The course should enable trainee teachers to develop the ability to 
+perform and teach the technical aspects of various track and field e 
+ents, demonstrating a good level of understanding of the rules and regulations that govern this sport and its 
+organization 
+ 
+COCH 450 Principle and Practice of Sport 6 
+Credit Hours: 3 
+This course aims at providing students with information about the history, evolution, and development of 
+Racket Sports (Tennis & Table tennis). The course of study provide students with opportunities to learn and 
+develop their skills, gaining experiences on how arbitration happens. The course reviews Racket Sports (Tennis 
+& Table tennis) basic skills, their technical and instructional steps as well as their basic playing plans and 
+strategies. 
+ 
+ 
+ 
+ 
+COCH 488 Practicum in Coaching  
+Credit Hours: 3 
+This course focuses on creating positive sport experiences through physical education and sport coaching. It 
+explores various models of sport instruction rooted in contemporary learning theories. Through practical 
+sessions, students learn how to design inclusive opportunities for skill and confidence development, 
+emphasizing creativity, curiosity, innovation, and professionalism in their coaching practice. Additionally, this 
+course provides hands-on experience in specialty areas like adult fitness programs 
+ health clubs, exercise testing laboratories, clinical settings, and athletic training rooms. 
+=== PAGE 865 ===
+  
+ 
+865 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+COCH 499 Internship in Applied Coaching 
+Credit Hours: 3 
+This course provides students with a unique opportunity to work alongside established professionals in real-
+world professional settings, fostering a comprehensive understanding of career pathways and expectations in 
+their chosen fields. Through this experiential learning, students develop and refine essential communication, 
+interpersonal, and professional skills while also gaining proficiency in qualitative research techniques for 
+identifying areas of growth within their volunteer roles. Ultimately, this internship experience also boosts 
+students' employability prospects. 
+ 
+Prerequisite:  
+COCH 225 
+ 
+CVEN 210 Properties & Testing of Materials  
+Credit Hours: 3  
+Composition and properties of Portland Cements, special cements, gypsum, lime, and asphaltic materials. 
+Properties and testing of aggregates and concrete. Concrete mix design. Use of stones, blocks and bricks.  
+Ferrous and nonferrous metals. Wood. The laboratory component includes: tests on Portland cement, sieve 
+analysis and grading of aggregate, specific gravity and absorption of coarse aggregate, Los Angeles abrasion 
+test, slump test, measurement of air content, concrete mix, crushing of concrete cubes, split-tension test, 
+rebound hammer and PUNDIT. 
+  
+Prerequisite:  
+CHEM 101 AND CHEM 103  
+   
+CVEN 212 Fluid Mechanics  
+Credit Hours: 3  
+Elementary mechanics of fluids with emphasis on hydrostatics, control volume analysis of flowing fluids using 
+kinematics, continuity, energy, and momentum principals; similitude, pipe flow.  
+  
+Prerequisite:  
+PHYS 191 AND PHYS 192 AND (CVEN 213 OR CVEN 211)   
+  
+CVEN 213 Statics  
+Credit Hours: 3  
+General principles of statics, force vectors in two and three dimensions, force system resultants, free body 
+diagrams, equilibrium of a particle, moment of a force about a point and about an axis, equilibrium of a rigid 
+body, introduction to structural analysis, internal forces, shear and bending moment diagrams, introductory truss 
+analysis, friction, center of gravity and centroid, moments of inertia.  
+  
+Prerequisite:  
+=== PAGE 866 ===
+  
+ 
+866 
+ 
+ Undergraduate Catalog 2026-2027 
+MATH 102  
+  
+CVEN 214 Strength of Materials  
+Credit Hours: 3  
+Stress, strain, mechanical properties of materials, Hooke’s law, axial load, stress due to temperature, 
+introduction to statically indeterminate members, axial load and axial stress, torsion and torsional stress, pure 
+bending and bending stress, transverse shear and shear stress, combined loadings and stresses, stress 
+transformation, introduction to buckling of columns.  
+  
+Prerequisite:  
+CVEN 213  
+  
+CVEN 220 Analysis of Structures  
+Credit Hours: 3  
+Type of loads. Stability and determinacy of structures. Analysis of determinate trusses, beams, and frames. 
+Reaction computation. Axial force, shear force and bending moment diagrams. Deflection calculations by 
+geometric methods and virtual work methods. Influence lines for determinate structures. Arches and cables. 
+Introduction to statically indeterminate structures.  
+  
+Prerequisite:  
+CVEN 213 OR CVEN 211  
+  
+CVEN 230 Geotechnical Engineering  
+Credit Hours: 3  
+Soil Composition, soil-water system, classification of soil, permeability and seepage, stress distribution in soil, 
+compressibility of soil, settlement analysis for shallow foundations, shear strength of soil.  
+The laboratory component includes visual inspection, sieve and hydrometer analyses, Atterberg limits, constant 
+and falling head permeability, compaction, field density, one-dimensional consolidation, direct shear, triaxial, 
+and unconfined compression testing.  
+  
+Prerequisite:  
+CVEN 213 OR CVEN 211  
+  
+CVEN 270 Surveying for Construction  
+Credit Hours: 3  
+Introduction to Surveying and Geomatics. Measurements and Units. Theory of Errors. Vertical Distance  
+Measurements: Types of Leveling, Differential Leveling procedures and computations, Profiles and Cross 
+Sections. Horizontal Distance Measurement: Taping and Electronic Distance Measurements. Horizontal and 
+Vertical Angle Measurements. Theodolites and Total Station. Traverse Computations and Adjustments. Areas 
+and V olumes Calculations. Mapping & Computer-Aided Survey. Setting out Construction Sites. Introduction to 
+GIS.  
+=== PAGE 867 ===
+  
+ 
+867 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+Prerequisite:  
+MATH 101  
+  
+CVEN 320 Design of Reinforced Concrete Members  
+Credit Hours: 3  
+Relationship between the architectural plan and the structural system, Reinforced concrete material 
+characteristics, Load determination and distribution, Flexural analysis and design of beams, Flexural analysis 
+and design of one-way slabs, Shear design of beams, Design of short columns subjected to concentric and 
+eccentric loading, Serviceability, bond and development length.  
+  
+Prerequisite:  
+CVEN 220 AND (CVEN 214 OR CVEN 211)   
+  
+CVEN 321 Analysis of Indeterminate Structures   
+Credit Hours: 3  
+Analysis of indeterminate structures by the force method, slope deflection, and moment distribution. Deflection 
+of indeterminate structures. Introduction to matrix analysis of structures: trusses, beams, and frames.  
+  
+Prerequisite:  
+CVEN 220 AND GENG 300 with concurrency  
+  
+CVEN 330 Foundation Engineering I  
+Credit Hours: 3  
+Laboratory measurement of soil drained and undrained shear strengths; Site (field) subsurface investigation; 
+Soil and rock bearing capacity for shallow foundations; Design different types of footings (isolated “axially and 
+eccentrically-loaded”, wall, combined and strap footings); Lateral earth pressures using Rankine and Coulomb 
+theories; Stability of cantilever retaining wall. The laboratory component includes: direct shear, ring shear, 
+triaxial compression, and unconfined compression testing  
+ 
+Prerequisite:  
+CVEN 230 AND (CVEN 214 OR CVEN 211)   
+  
+ 
+CVEN 340 Analysis and Design of Hydraulic Systems  
+Credit Hours: 3  
+Applications of fluid mechanics to engineering and natural systems, including closed-conduits and pipe 
+networks, open channel flow, turbo machinery, and hydrology.  
+  
+Prerequisite:  
+CVEN 212  
+=== PAGE 868 ===
+  
+ 
+868 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+CVEN 342 Water Resources and Management  
+Credit Hours: 3  
+An introduction to basic concepts and issues of water resources management, emphasizing on water law and 
+rights, water resource planning, institutional and organizational arrangements, sustainable water resources 
+development. Case studies illustrate the role of political, social, economical, and environmental factors in 
+decision making. Physical properties of groundwater and aquifers, principals and fundamental equations of 
+porous media flow and mass transport, well hydraulics and pumping test analysis, role of groundwater in the 
+hydrologic cycle.  
+  
+Prerequisite:  
+GEOG 442  
+  
+CVEN 350 Environmental Engineering  
+Credit Hours: 3  
+Introduction to water pollution, air pollution, soil contamination, noise, hazardous and solid waste, and their 
+control. Environmental impact statements and global pollution issues. Introduction to groundwater engineering. 
+Waste water management and sanitary engineering.  
+  
+Prerequisite:  
+CVEN 212 AND CHEM 103 AND CHEM 101  
+  
+CVEN 352 Waste Management  
+Credit Hours: 3  
+Physical, biological and chemical water quality parameterization and measurements, wastewater generation and 
+collection, biological wastewater treatment and reuse, industrial wastewater treatment, solid waste management, 
+remediation of contaminated soil, groundwater remediation, hazardous waste.  
+  
+Prerequisite:  
+GEOG 442  
+  
+CVEN 360 Highway Engineering  
+Credit Hours: 3  
+Introduction to highway engineering. Functional classification of the highway system. Driver and vehicle 
+characteristics. Traffic characteristics. Grades and sight distance. Design speed. Design specifications for cross 
+section elements. Geometric design of highways; horizontal and vertical alignment design. Intersection design 
+for at-grade intersections.  
+  
+Prerequisite:  
+CVEN 270  
+  
+=== PAGE 869 ===
+  
+ 
+869 
+ 
+ Undergraduate Catalog 2026-2027 
+CVEN 380 Construction Engineering  
+Credit Hours: 3  
+Topics covered in this course are: introduction to the construction industry, management processes, time & cost 
+processes, project budgeting, management of construction equipment, safety of construction sites, legal aspects 
+in construction and construction claims. Introduction to computer applications in construction engineering.  
+  
+Prerequisite:  
+CVEN 320  
+  
+CVEN 381 Contracts, Specifications, and Local Regulations   
+Credit Hours: 3  
+Law of contracts; formation principles. Performance of breach of contract obligation. Termination of agreement; 
+pre-qualification. Contracts for construction and engineering services. Specifications. Professional liability; 
+insurance and bonds. Water rights. Environmental law. Arbitration of disputes. Local regulations.  
+  
+Prerequisite:  
+CVEN 380 Concur.  
+ 
+CVEN 399 Practical Training  
+Credit Hours: 3  
+Supervised 8-week training period at any approved engineering concern (consulting, contracting, industrial, 
+government), intended to provide students with hands-on experience in the workplace. Evaluation is based on 
+daily performance, supervisors’ input, student’s report, and a short presentation  
+  
+CVEN 401 Civil Engineering Design Project I   
+Credit Hours: 2  
+Understanding a design problem and the overall context. Acquiring the necessary knowledge from other 
+courses. Defining the general requirements. Identifying the specific project objectives and deliverables. 
+Preparing an effective project schedule and developing the project tasks. Exploring different options for design 
+and conducting preliminary information gathering/data collection/analyses on these options. Defining clear 
+evaluation criteria and evaluating the different options accordingly. Deciding on the best design option based on 
+the evaluations. A final report and a group presentation are required  
+  
+Prerequisite:  
+CVEN 422 with concurrency AND CVEN 330 with concurrency  
+  
+CVEN 402 Civil Engineering Design Project II  
+Credit Hours: 3  
+Performing detailed analyses on the design option chosen. Undertaking the detailed design process.  
+Incorporating and evaluating multiple realistic constraints, i.e., ethical, economic, environmental, and safety 
+constraints. Effective use of design standards. Investigating the implementation/construction stage of the project 
+=== PAGE 870 ===
+  
+ 
+870 
+ 
+ Undergraduate Catalog 2026-2027 
+for smooth delivery of the project. The work completion is under the supervision of faculty member(s) in 
+addition to mentor(s) from the industry. A final report and a group presentation are required. This is a 
+continuation of CVEN 401.  
+  
+Prerequisite:  
+CVEN 401  
+  
+CVEN 420 Design of Steel Structures  
+Credit Hours: 3  
+Properties of structural steel, Steel sections, Analysis and design concepts, LRFD design concept, Design of 
+tension members, Design of compression members, Column base plates, Design of beams with and without 
+lateral supports, Design of members under combined axial and bending loads, Design and details of simple 
+bolted and welded connections and an introduction to common building connections, Composite beams and 
+columns, Introduction to plastic analysis.  
+  
+Prerequisite:  
+CVEN 220 AND CVEN 214 
+  
+CVEN 422 Design of Reinforced Concrete Structures   
+Credit Hours: 3  
+Analysis and design of continuous beams, bending moment envelopes. Analysis and design of two-way solid 
+slab systems (slabs supported on beams). Analysis and design of flat plate systems. Analysis and design of flat 
+slab systems. Analysis and design of slender columns in braced structures. Analysis and design of slender 
+columns in unbraced structures. Wind Analysis. Analysis and design of shear walls. Analysis and design of 
+stairs.  
+Prerequisite:  
+CVEN 320  
+  
+CVEN 423 Selected Topics in Structural Design   
+Credit Hours: 3  
+Analysis and design of pre-stressed beams, wind load calculations, use of structural analysis software for 
+multistory buildings, introduction to structural dynamics, new developments in structural engineering.  
+  
+Prerequisite :  
+CVEN 320  
+  
+CVEN 424 Structural Matrix Analysis   
+Credit Hours: 3  
+Matrix Analysis of Plane Framed Structures: force method and displacement method. Formulation of stiffness 
+and flexibility matrices. Introduction to the finite element method.  
+  
+=== PAGE 871 ===
+  
+ 
+871 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+CVEN 321  
+   
+CVEN 430 Foundation Engineering II  
+Credit Hours: 3  
+Analysis and design of deep foundations (piers, caissons, piles), stability of open cuts, stability and design of 
+sheet-pile walls (cantilever, free and fixed earth support types, ties, wales), design of secant-pile walls, 
+computer applications.  
+  
+Prerequisite:  
+CVEN 330  
+  
+CVEN 431 Selected Topics in Geotechnical Engineering   
+Credit Hours: 3  
+Stability of slopes, design of dewatering systems, characteristics of desert problematic soils (swelling soil, dune 
+sand, salt-bearing soil “Sabkha”, liquefiable sand), soil improvement methods (mechanical, chemical), 
+description and use of geosynthetics, stability and design of reinforced-earth walls, design of liner systems for 
+liquid containments and solid waste landfills, computer applications.  
+  
+Prerequisite:  
+CVEN 230 AND (CVEN 214 OR CVEN 211)   
+  
+CVEN 442 Selected Topics in Water Resources  
+Credit Hours: 3  
+An introduction to basic concepts and issues of water resources management, emphasizing on water law and 
+rights, water resources planning, institutional and organizational arrangements, sustainable water resources 
+development. Case studies illustrate the role of political, social, economic, and environmental factors in 
+decision making. Physical properties of groundwater and aquifers, principals and fundamental equations of 
+porous media flow and mass transport, well hydraulics and pumping test analysis, role of groundwater in the 
+hydrologic cycle.  
+  
+Prerequisite:  
+CVEN 340  
+ 
+ 
+ 
+   
+CVEN 453 Selected Topics in Environmental Engineering  
+Credit Hours: 3  
+=== PAGE 872 ===
+  
+ 
+872 
+ 
+ Undergraduate Catalog 2026-2027 
+Air Pollution Control, wastewater treatment, industrial wastewater treatment, solid waste management, 
+remediation of contaminated soil, groundwater remediation, hazardous waste, water quality measurements, 
+air quality measurements. Prerequisite:  
+CVEN 350  
+  
+CVEN 454 Environmental Sustainability  
+Credit Hours: 3  
+An overview of the ideas, principles, frameworks, and techniques that support comprehending and addressing 
+challenges including resource allocation, environmental degradation, and climate change is given in this course. 
+Students will engage with sustainability via a variety of activities, including active reading of course materials, 
+group discussions, site visits, and writing assignments. They will also learn about local and global regulations, 
+social responsibility, economic practices, and pertinent ecological situations.  
+  
+Prerequisite:  
+CVEN 212 AND CHEM 101 AND CHEM 103  
+  
+CVEN 455 Environmental Noise and Vibration  
+Credit Hours: 3  
+This course provides background to the students about the topic of environmental noise and vibration. The 
+students will learn about the time and frequency domain analysis and will develop an understanding of 
+quantifying noise and vibration. They will also learn about the dynamics of different systems and the resulting 
+noise and vibration from primary systems such as roads, rails, and construction activities. The students will also 
+have the opportunity to learn about how to measure noise and vibration besides learning about the engineering 
+control measures.  
+  
+Prerequisite:  
+MATH 217 AND CVEN 214 AND CVEN 212  
+  
+CVEN 456 Environmental Impact Assessment  
+Credit Hours: 3  
+An official environmental management procedure, a tool for legislation, and a means of making decisions are 
+all associated with the Environmental Impact Assessment (EIA). It is used to make it possible to include 
+preventative measures for the preservation of human and environmental systems into the design of projects and 
+policies. This course aims to provide students a solid understanding of the environmental, social, and economic 
+consequences of any project, as well as the methodologies related to EIA. It also goes into depth on how these 
+impacts may be measured and examined. The course gives students an introduction of the EIA legal framework, 
+discusses the EIA methodology, and gives examples of impact assessment approaches. Students will look at EIA 
+case studies, which will offer students a chance to evaluate and assess the EIA procedure and related methods.  
+  
+Prerequisite:  
+CVEN 350  
+=== PAGE 873 ===
+  
+ 
+873 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+CVEN 460 Pavement Materials and Design  
+Credit Hours: 3  
+Properties uses and tests of asphalt materials, Aggregate types and classification. Traffic characterization.  
+Pavement types and infrastructure. Asphalt concrete mix design methods. Introduction to super pave systems.  
+Flexible and rigid pavement analysis. Structural design of flexible and rigid pavements. Pavement evaluation; 
+Serviceability concept, structural capacity and surface distresses.  
+  
+Prerequisite:  
+CVEN 360 AND CVEN 230  
+  
+CVEN 461 Traffic Engineering  
+Credit Hours: 3  
+Introduction to Traffic engineering. Characteristics of road users, vehicles, and roadways. Traffic stream 
+characteristics. Traffic studies: Speed, volume, travel time and delay, and parking studies. Capacity and Level of 
+service (LOS) analysis for roadways and intersections. Traffic Safety; Accident studies and analysis. Methods 
+of intersection control. Traffic signals; Warrants for signalization, Principles of Phasing, Signal coordination, 
+and Traffic signal design and timing.  
+  
+Prerequisite:  
+CVEN 360  
+  
+CVEN 462 Selected Topics in Transportation Engineering   
+Credit Hours: 3  
+Highway planning, Mass transit plans design and operation (bus and rail), Analysis and design of signalized 
+intersections based on HCM2000, Traffic signal coordination, Introduction to pavement management systems, 
+Introduction to airport engineering, New developments in transportation engineering.  
+  
+Prerequisite:  
+CVEN 360  
+  
+CVEN 463 Railway Track Engineering  
+Credit Hours: 3  
+This course delivers a background knowledge about railway engineering. The course comprises: an introduction 
+for railway engineering, problems associated with railways, types of tracks and construction techniques, 
+characteristics and properties of ballast, characteristic of sub-ballast and ground, characteristics of other track 
+components, loading mechanisms, alignment design, modeling a railway track as a beam on elastic foundation, 
+degradation of tracks, inspection and assessment techniques, and maintenance of railway tracks. 
+ 
+Prerequisite:  
+CVEN 360  
+=== PAGE 874 ===
+  
+ 
+874 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+CVEN 464 Risk and Safety Management   
+Credit Hours: 3  
+The course delivers the fundamentals of hazard identification, risk assessment and managing risks in projects 
+with emphasis on the workplace. It also covers the risk managements processes, tools and techniques and 
+computer applications. It also deals with laws and requirements involving worker, public and client safety 
+practices. The course includes developing and implementing a site safety plan, pre-task planning, and site 
+worker orientations.  
+  
+Co-requisite:  
+MECH 471 OR CVEN 380  
+  
+CVEN 481 Project Planning & Scheduling  
+Credit Hours: 3  
+Introduction to Project Management Body of Knowledge (PMBOK), network methods of project planning & 
+scheduling, such as AON, PERT, bar-charting, line-of-balance, and VPM techniques. Project compression 
+analysis and control. Computer applications in project management. The Laboratory component of this course 
+covers modern project management tools and techniques on the personal computer.  
+  
+Prerequisite:  
+CVEN 380  
+  
+CVEN 482 Selected Topics in Construction Engineering and Management   
+Credit Hours: 3  
+Selection made from the following topics: risk management, value engineering, total quality management; 
+concurrent engineering; material management, and procurement of construction projects, project budgeting.  
+  
+Prerequisite:  
+CVEN 380 with Concurrency 
+  
+CVEN 483 Quantitative Analysis in Engineering Projects  
+Credit Hours: 3  
+Important mathematical concepts for engineering project management, quantitative tools and techniques for 
+decision-making. Construct applied decision analysis models and quantitative assessment of projects’ 
+uncertainties and risks.  
+  
+Prerequisite:  
+MATH 102 AND MECH 471  
+  
+DAWA 111 Islamic Culture  
+Credit Hours: 3  
+=== PAGE 875 ===
+  
+ 
+875 
+ 
+ Undergraduate Catalog 2026-2027 
+This course helps cultivate a shared identity and common values among university students across all 
+disciplines. It also responds to the students’ need to develop a well-balanced personality characterized by a high 
+degree of effectiveness, positivity, and self-confidence, equipping them to be constructive and active 
+contributors to their communities. Furthermore, it equips them to respond with awareness to various internal 
+and external challenges, and to engage with others in mindful openness and judicious interaction. The course 
+adopts a pedagogical philosophy suited to its distinctive nature, with its components organized into an 
+integrated and sequential structural unit. It begins with a clarification of key concepts related to Islamic culture, 
+in preparation for focused analytical engagement with questions of human nature, the purposes of creation, the 
+message of Islam, the Muslim community, and relationships with others. 
+  
+DAWA 113 Philosophy of Sirah  
+Credit Hours: 3  
+1- Highlighting the personality of the Prophet (peace be upon him) in the various spheres of life.  
+2- Implanting love of the Prophet (peace be upon him) in the hearts of the students.  
+3- Expounding the Prophetic methodology in dealing with others.  
+4- Enabling the student to relate the Sirah of the Prophet (peace be upon him) with the requirements of the 
+modern age.  
+5- Enabling the student to relate events and analyze and produce ideas.  
+  
+DAWA 114 Modern Techniques of Dawa  
+Credit Hours: 3  
+1. Educating the student on the information and skills required for a successful life.  
+2. Entrenching virtues in the student.  
+3. Developing communications skills.  
+4. Encouraging the student to participate in Dawa activities in the society.  
+5. Introducing the student to various Dawa institutions.  
+6. Acquainting the student with skills for dialogue, discussions and objective reasoning.  
+7. Enabling the student on analyzing modern means of Dawa.  
+  
+DAWA 117 Ethics  
+Credit Hours: 3  
+1- Educating the student on the centrality of ethics in the making of a human, social, cultural and 
+civilizational makeup.  
+2- Introducing the student to the role played by ethics in preserving humanity and nature and in the right 
+development of human beings emotionally, socially, academically and culturally as well in achievement of 
+justice and a civil society.  
+3- Acquaint the student with essential moral qualities, its importance and benefits in life and it practical 
+results.  
+4- Engraining in the student moral etiquettes through the exposition of the essence of morality and the 
+ways and means to nurture it.  
+=== PAGE 876 ===
+  
+ 
+876 
+ 
+ Undergraduate Catalog 2026-2027 
+5- Acquainting the student to the characteristics of Islamic ethical values by objectively and academically 
+comparing it with various ethical philosophies  
+   
+DAWA 202 Introduction to general Philosophy  
+Credit Hours: 3  
+1- Introduce the student to the essential issues of philosophy.  
+2- Introducing the student to the most important schools of philosophy.  
+3- Introducing the student to the contribution of philosophy in the human civilization.  
+4- Enable the student to objectively interact and deal with philosophical thought.  
+  
+DAWA 203 Principles & Method of Dawa  
+Credit Hours: 3  
+1- Develop an intellectually and behaviorally sound personality which eschews extremist tendencies.  
+2- Prepare a successful preacher/scholar who can contribute positively in reforming the society.  
+3- Define the characteristics, methodologies, approaches and means of prophet preaching.  
+4- Prepare a preacher/scholar abreast of modern facilities and capable of responding to with modern 
+requirements.  
+5- Introduce the preacher/scholar to his duties towards his society and humanity at large.  
+6- Educate the student on the psychology of his audience.  
+7- Educate the student on dialogue and communication skills for Dawa work.  
+8- Assisting the student in achieving model roles from the life pattern of the Prophet (peace be upon him).  
+  
+DAWA 204 Research Methodology  
+Credit Hours: 3  
+The objectives of the course are to provide students with:  
+1. An introduction to research methodology and independent research skills.  
+2. Key empirical and analytical skills that will facilitate disciplinary and interdisciplinary research in various 
+fields.  
+3. Improved academic writing skills, the ability to give and receive constructive feedback and to act 
+constructively upon it.  
+4. Effective ways of using library resources for research works  
+  
+DAWA 205 School of Islamic Thought  
+Credit Hours: 3  
+There are three realms in which these objectives vividly manifest themselves:  
+1. In the field of knowledge – the student would learn:  
+- the origin of the schools of Islamic thought and their spread  
+- the impact of the political and social situation in conditioning the development of the thought pattern of 
+these schools, and in turn the impact of these schools on intellectual and social life.  
+- Views and concept of each school.  
+- Characteristics of each school and its methodologies.  
+=== PAGE 877 ===
+  
+ 
+877 
+ 
+ Undergraduate Catalog 2026-2027 
+- The guiding conceptual principles which guided the leading figures of a school.  
+- The civilizational impact of these schools of Islamic thought upon the nurturing of human civilization. 
+All these points will have to be studied with understanding, criticism, analysis, and implementation to 
+enable the student to appreciate the methodologies and teachings of these schools of Islamic thought.  
+2. In the field of skill, al-hiss al-haraki – to develop and nurture the students intellectual, cultural and academic.  
+  
+DAWA 206 International Organizations & Human Rights   
+Credit Hours: 3  
+1- Acquainting the student with the International Organizations and human rights issues.  
+2- Introducing the student to the most important International Organizations  
+3- Introducing the student to the issue of human rights and different views around it and the issues related 
+to it.  
+4- Enable the student to understand the role of these organizations and interact with them.  
+  
+DAWA 207 Islamic Institutions  
+Credit Hours: 3  
+1-Introducing the students to the institutions of Islam which regulate their society politically, economically and 
+socially. 2-Introducing the student to the merits of Islamic Shariah and its comprehensive nature in all matters 
+of life. 3-Nurturing the students’ understanding with respect to the issues that help in organizing one’s life 
+meaningfully. 4-Explaining the characteristics of Islamic institutions with respect to their divine nature, their 
+adaptability, development, comprehensiveness, practicability, middle-coursed nature, fairness, moderation and 
+the ability to safeguard one’s freedom and respect for human rights.  
+  
+DAWA 214 Philosophy of Sirah  
+Credit Hours: 3  
+This course deals with the various stages of Prophet Mohammad’s Sirah. It discusses its historical context, the 
+Dawa movement, the establishment of the Islamic Ummah belief and value systems and its diverse 
+relationships. The course adopts an objective analytical approach. It aims at deducing norms and practical 
+lessons that promote the ideal model for the Islamic revival, tackle the major defects facing the Ummah in line 
+with its identity and strengthens the ties to it.  
+  
+DAWA 214 Textual Study of The Quran  
+Credit Hours: 3  
+1. Educate the student on the best way to partake of the Qur’an and understand its methodology.  
+2. Introduce the student to the method and style of benefiting from the Qur’an objectively to resolve 
+modern issues and crises by presenting instances of these and the Quranic solutions to them in our everyday 
+life.  
+3. Fully acquaint the student with the Quranic approach to interacting with the ‘other’.  
+  
+Prerequisite:  
+DAWA 110 OR ISLA 203 OR ISLA 102  
+=== PAGE 878 ===
+  
+ 
+878 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+DAWA 222 Alliance of Civilizations  
+Credit Hours: 3  
+This course aims to provide a vision for the possibility of the Alliance of Civilizations, based on the 
+commonalities between nations, societies and civilizations. It will focus on the promotion of common interests 
+between civilizations and coexistence on the basis of mutual respect and understanding of the culture and 
+religions of human civilizations. All this while accommodating the world’s cultural diversity which would help 
+in the building of civilizations and interact between them on the one hand while endeavoring to distance them 
+from sectarian and ethnic conflicts highlighting the pioneer contribution of the Islamic civilization in human 
+progress with emphasis on the values of tolerance and solidarity between peoples.  
+  
+DAWA 301 Contemporary issues of Fiqh  
+Credit Hours: 3  
+Teach students the permissible and the prohibited matters in social and economic contexts and remove any 
+doubts concerning these aspects.  
+  
+DAWA 302 world Religions Comp Studies  
+Credit Hours: 3  
+1. Introducing students to the science of history of comparative religion.  
+2. Introduce the student to the different methodologies of comparative religion.  
+3. Enable the student to carry out comparative religious studies.  
+4. Deeping the understanding of the student of other religious traditions  
+5. inculcating positive approach towards the “other”  
+6. Enabling student to understand and appreciate the commonalities and differences between religions.  
+  
+DAWA 303 Comparative Mysticism  
+Credit Hours: 3  
+1. Importance of the study of comparative mysticism.  
+2. Introduction to the commonalities of human spiritual experience.  
+3. Introduction to the characteristics of mystical experience.  
+4. Highlighting the human, intellectual, psychological and ethical dimensions of the mystical experience.  
+5. Acquainting the student with the mystical language and its characteristics and points of impact.  
+6. Elaborating the role of tasawwuf in the forward march of civilization.  
+7. Highlighting the role of tasawwuf in resolving the problems of modern man.  
+In all this the teacher would pursue a comparative study of the essential religious experiences of world religions.  
+  
+ 
+ 
+DAWA 305 Modern Philosophy  
+Credit Hours: 3  
+=== PAGE 879 ===
+  
+ 
+879 
+ 
+ Undergraduate Catalog 2026-2027 
+1. Introducing the student to the most important schools of modern western philosophy.  
+2. Introducing the student to the contribution of modern philosophy in the European civilization.  
+3. Enable the student to objectively interact and deal with modern western thought, benefit from its 
+positive aspects and forsake its negative aspects.  
+4. Enable the student to evaluate modern philosophy in the light of Islamic beliefs  
+  
+DAWA 306 History of Religion  
+Credit Hours: 3  
+Introducing the student to the major religions of the world with respect to their origin, development, sacred 
+scriptures and their modern situation with a solid background on the theological, juristic and major 
+contemporary trends.  
+ 
+DAWA 308  Jurisprudence of Civilization (Fiqh al-Taḥaḍḍur) 
+Credit Hours: 3 
+This course examines the historical trajectory and development of Islamic civilization, the patterns/norms 
+(sunan) governing its rise and decline, and the jurisprudence of urban civilization (ʻumrān) associated with it, 
+drawing on concepts from Islamic and humanistic sociology. The course aims to illuminate the characteristics, 
+applications, and achievements of this civilization by tracing its overall historical course and accomplishments 
+and comparing them to the current state of the Muslim community (ummah). It also contributes to developing a 
+comprehensive understanding of the objectives and mechanisms of the sought-after civilizational witnessing (al-
+shuhūd al-ḥaḍārī), and to exploring ways of operationalizing the thought of (sunan) and the jurisprudence of 
+civilization and (ʻumrān), thereby enriching the student’s understanding of the conditions and possibilities for a 
+Muslim renaissance in the contemporary era. 
+  
+DAWA 310  Contemporary Methodologies in Islamic Sciences 
+Credit Hours: 3 
+This course focuses on the study of contemporary methodologies employed in the examination of Islamic 
+sciences, with particular attention to those that have sought to renew the study of these disciplines and situate 
+them within the debates and challenges of modernism. The course specifically addresses a number of influential 
+intellectual and critical methodologies, including the Orientalist methodology, the phenomenological 
+methodology, the structuralist methodology, the Marxist methodology, the historicist methodology, and the 
+deconstructivist methodology. The course adopts a critical analytical approach to evaluate these methodologies, 
+clarify their intellectual premises and epistemological tools, and explore their impact on the study of Islamic 
+sciences and the humanities. 
+ 
+DAWA 311 Dawa in the Modern Age  
+Credit Hours: 2  
+Aims at critically analyzing the current state of Dawa movements, trends, individuals and institutions.  
+  
+ 
+DAWA 312 Dawa Personal & the Society  
+Credit Hours: 2  
+=== PAGE 880 ===
+  
+ 
+880 
+ 
+ Undergraduate Catalog 2026-2027 
+Acquaints students with the nature of Dawa Society, its institutions and cultural and intellectual trends, and 
+prepares them spiritually, intellectually and culturally to interact with that society.  
+  
+DAWA 401 Area Studies  
+Credit Hours: 3  
+1. Brief the student on the geographical setting of various areas world, their history, civilization, politics, 
+society, economy and religion.  
+2. Introduce the student to the most important movements, institutions, religions and philosophies and 
+personalities.  
+3. Encourage the student to keep close track of all developments in this areas.  
+4. Enrich the student with the culture of these places.  
+5. Acquaint the student with the strategic importance of various places in different respects.  
+  
+DAWA 402 World Religious Thought  
+Credit Hours: 3  
+1. Acquaint the student with the modern religious map of the world and introduce him to the most essential 
+issues engaging man in this regard.  
+2. Introduce the background against which all these changes are taking place to the student.  
+3. Acquaint the student with the critical and comparative methodologies involved in these studies.  
+4. Engage the student in understanding and appreciating the points of view of other religions in this regard.  
+5. Provide the student the necessary material and motive to make a positive contribution towards this 
+dialogical thrust while representing his own religious view succinctly.  
+  
+DAWA 403 Graduation Project  
+Credit Hours: 3  
+The student will have to carry out a research project as a necessary part of graduation, on a topic or a theme of 
+his choices after the approval of the department and under the supervision of faculty. He will be allowed to start 
+the project from the third year if he wishes so. No degree will be conferred on him until and unless he 
+successfully completes the project to the satisfaction of the department.  
+  
+DAWA 404 Sociology of Religion  
+Credit Hours: 3  
+1. Introducing the student to the social dimension of religion and its academic importance through the 
+sociology of religion.  
+2. Introducing the student to the origins, schools, theories, methodologies and leading figures of this 
+discipline and enabling him to critically analyze it.  
+3. Acquaint him with the meaning of social change and its various theories and the role played by religion 
+in it.  
+4. Educate the student on the perspective of the scholars or sociology on the nature of religious and 
+political institutions in the modern societies and encourage him to develop his own critical opinion on the 
+subject.  
+=== PAGE 881 ===
+  
+ 
+881 
+ 
+ Undergraduate Catalog 2026-2027 
+5. Introducing the student to the efforts made by Muslim scholars in this field and comparing it with the 
+modern western endeavors in the field.  
+6. Develop in the student a clear and concise Islamic view of religion and society and encourage him to 
+understand and appreciate the modern views of civil society and human rights.  
+7. Educate the student on critically analyzing theories  
+  
+DAWA 405 Independent Studies  
+Credit Hours: 3  
+This course provides an opportunity for students to engage in self-study on a variety of topics, with particular 
+emphasis upon subjects and issues that the student did not get the chance to study in other courses. This would 
+be done in an interactive manner, by creating an environment of discussion and exchange of ideas between 
+students and the instructor.  
+  
+ECON 111 Principles of Microeconomics  
+Credit Hours: 3  
+This course focuses on basic microeconomic concepts such as supply and demand, market equilibrium, the 
+concept of elasticity, consumer choice, utility, production and costs, the theory of perfect competition, 
+monopoly and monopolistic competition  
+  
+Prerequisite:  
+MATH 103 OR   Mathematics Placement Test 180 OR ACT 21 OR SAT 500 OR MATH 021  OR MATH F014  
+OR MATH 004  OR MATH 002  OR MATH 101  OR MATH 119  
+  
+ECON 112 Principles of Macroeconomics  
+Credit Hours: 3  
+This course focuses on basic macroeconomic concepts such as the production possibility set, the circular flow 
+of income, the national accounts, the components of aggregate spending, a simple model of income 
+determination and international linkages.  
+  
+Prerequisite:  
+MATH 103 OR Mathematics Placement Test 180 OR ACT 21OR SAT 500OR MATH 021 OR MATH F014 OR 
+MATH 004 OR MATH 002 OR MATH 101 OR MATH 119  
+  
+ECON 211 Intermediate Microeconomics  
+Credit Hours: 3  
+This course examines theory of choice and its applications, income and substitution effects of a change in price 
+and the compensated demand curve, production and cost with many variable inputs, theory and models of 
+oligopoly, input markets and the allocation of resources.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+=== PAGE 882 ===
+  
+ 
+882 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+ECON 212 Intermediate Macroeconomics  
+Credit Hours: 3  
+This course examines the behavioral foundations of consumption: absolute-income hypothesis, relative income 
+hypothesis, permanent income hypothesis and life-cycle hypothesis will be discussed. Other topics covered 
+include behavior of investment: the desired capital stock, the interaction between the multiplier and the 
+accelerator and trade cycles, IS/LM model, labor markets, and balance of payments analysis.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+ 
+ECON 214 Monetary Policy  
+Credit Hours: 3  
+This course covers the evolution of money. The monetary systems, the financial system, interest rates, 
+commercial banks functions, and their role in the creation of money. The central bank: its role in setting 
+monetary policy and money supply. Money demand, money and inflation, and the role of money in economic 
+activity.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 216 Public Economics  
+Credit Hours: 3  
+This course is designed to provide students with the required economic analysis to understand the market failure 
+theory, public goods, and externalities, which require government intervention through its economic policy 
+tools (specifically, government spending programs and taxation). Its primary focus is on the economic decisions 
+the government makes to achieve economic efficiency, how the political economy affects these decisions, and 
+the impact of government economic decisions on households, businesses, and workers. The course aims to 
+introduce answers to important questions such as: what are the economic functions of the government? how 
+governments use different types of taxation policies to affect the economy? how the tax expenditure policy 
+helps to stabilize the economy? and how governments prepare their budgets.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 311 Econometrics  
+Credit Hours: 3  
+This course examines properties of the least-squares estimators, specification, estimation and hypothesis testing 
+of the simple and multiple regression models, use of dummy variables and violations of classical assumptions:  
+heterosecdasticity, autocorrelation and multicollinearity.  
+  
+=== PAGE 883 ===
+  
+ 
+883 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+ECON 111 AND STAT 222 AND ECON 112  
+ 
+ECON 316 Economics of Taxation  
+Credit Hours: 3  
+This course enables students to understand, analyse and implement tax theory, policy and structure. It includes 
+set of topics such as tax incidence, tax evasion, and tax incentives in both developed and developing countries. 
+In addition, the course discusses advanced topics in taxation such as optimal taxation and taxation and 
+economic efficiency. Students will also analyse the tax system in Qatar from the economic perspective.  
+  
+Prerequisite:  
+ECON 216  
+  
+ECON 451 Economic Development  
+Credit Hours: 3  
+This course focuses on the main characteristics of developing countries, indicators of economic development, 
+the process of development, sources of development, theories and strategies of economic development, barriers 
+to development, negative aspects of economic development and sustainable growth to be addressed.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 452 Industrial Economics  
+Credit Hours: 3  
+This course provides an overview of the industrial organization framework, market structure and performance, 
+market concentration, pricing theory and strategy, game theory, innovation and market structure, managerial 
+firms, firm size and diversification,  multinational firms and transfer pricing, international organization, vertical 
+integration, technology choice, and industrial policy.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 453 International Economics  
+Credit Hours: 3  
+This course examines the theory of comparative advantage and the gains from trade, tariffs and other trade 
+restrictions, protection policies, the GAAT, mechanics of international payments, and international monetary 
+reform.  
+ 
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+=== PAGE 884 ===
+  
+ 
+884 
+ 
+ Undergraduate Catalog 2026-2027 
+ECON 454 Economics of Energy  
+Credit Hours: 3  
+This course examines the essential economics of various sources of energy; emphasis given to the demand for 
+oil, supply of oil, fluctuations in oil prices, forecasting oil prices and the role of OPEC.  The course also covers 
+other sources of energy, particularly coal, natural gas and nuclear power.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 455 International Taxation and Investment   
+Credit Hours: 3  
+Because of globalization, capital movements between countries have significantly increased in recent years. 
+These capital movements, or foreign investment, take many forms such as green field investment and portfolio 
+investment.  The capital-exporting and capital-importing countries are keen to tax foreign investment.  
+Nevertheless, the international capital flow in various investment forms addresses a number of international tax 
+issues. Dealing with international capital flows requires understanding the conceptual aspects of foreign 
+investment and the related international taxation. In addition, it requires understanding the implications of 
+investment and international taxation through learning about the structure of bilateral tax treaties in general and 
+particularly in Qatar. Therefore, this course aims to help students understand the international tax concepts 
+related to investment, and analyze international tax principles, such as permanent establishments, business 
+taxation, taxing passive income, etc.  
+  
+Prerequisite:  
+ECON 316  
+ 
+ECON 472 Managerial Economics  
+Credit Hours: 3  
+This course covers the scope of managerial economics, tools of analysis and optimization, demand, markets, 
+and elasticity. Production, costs and profitability analysis (short and long run), market structure: perfect 
+competition, monopolistic competition, oligopoly, and monopoly, market power and market domination 
+including; cartels, local and international dominating firms, and pricing practices (price discrimination, action 
+reaction pricing policies, and capital budgeting and investment decisions and risk analysis will be discussed.  
+  
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+ECON 475 Contemporary Topics in Economics  
+Credit Hours: 3  
+This course focuses on the current and important economic topics relevant to local, regional, and international 
+communities. The course will discuss real world economic issues utilizing economic principles and concepts.  
+  
+=== PAGE 885 ===
+  
+ 
+885 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+ECON 111 AND ECON 112  
+  
+EDUC 401 Art Teaching Methods 
+Credit Hours: 3  
+This course provides students with the knowledge, skills, and strategies needed to teach art in schools. It 
+presents the components of the curriculum, including objectives, content, teaching aids, educational activities, 
+and appropriate methods for teaching art education. In addition to addressing some contemporary educational 
+issues such as visual culture and new technological art, exhibitions and museums for education, the course also 
+clarifies the relationship between the arts, sciences and academic subjects to be able to integrate artistic 
+activities in education. It also covers the theory of Discipline-Based Art Education (DBAE) perspective and 
+links it to the standards of visual arts curriculum applied by the Ministry of Education and Higher Education in 
+Qatar. This course gives students an opportunity to practice Microteaching, presentations and school field 
+experiences. 
+  
+Prerequisite:  
+EDUC 314 AND EDUC 316 AND ARTE 307 AND ARTE 308 AND ARTE 309   
+ 
+EDEC 410 Play & the Theory of Movement  
+Credit Hours: 2  
+Theory and research in the field of play and movement for young children are the focus of this course; 
+characteristics of play at various ages and the role of play in development are covered. Course experiences are 
+oriented toward increasing student awareness of the meaning and play to children, the importance of movement, 
+and how to stimulate and enhance enriching play behavior.  
+  
+Prerequisite:  
+EDUC 315 AND EDUC 312 AND EDUC 310  
+  
+EDEC 411 Health & Safety of Young Child  
+Credit Hours: 2  
+Participants in this course learn about the basic nutritional needs of children, good health practices, and accident 
+prevention in the home and classroom. It will also examine prenatal factors of nutrition, health, and safety that 
+may affect the education and wellbeing of the young child.  
+  
+Prerequisite:  
+EDUC 310 and EDUC 312 and (EDUC 315 or SPSC 349)   
+  
+EDEC 412 Community Outreach & Resources  
+Credit Hours: 2  
+This course focuses on a study of approaches to family, community, societal, cultural, and ideological support  
+=== PAGE 886 ===
+  
+ 
+886 
+ 
+ Undergraduate Catalog 2026-2027 
+systems in children’s growth, learning, and development. It includes an emphasis on how these factors are 
+related in the permissive-restrictive dimensions of child rearing and socialization in broad perspectives across 
+environmental contexts, an examination of resources and systems to address the special needs of families with  
+children who are “at risk” or have disabilities, and review of technological tools used to locate and compile 
+information on community resources.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 315 AND EDUC 312  
+ 
+EDEC 413 Integrated math & Science for young child  
+Credit Hours: 3  
+This course is designed to help the student gain knowledge and competencies necessary to become an effective 
+teacher and leader in the areas of early childhood mathematics and science. It develops the theoretical bases for 
+mathematics and science learning and teaching; illustrates and applies models for integrating elementary 
+mathematics and science teaching; provides practical experience in curriculum, instruction and assessment. This 
+course addresses specific State of Qatar National Curriculum Standards and requires an extensive field-based 
+component.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 312 AND EDUC 315 AND (BIOL 101 OR BIOL 100) AND MATH 103   
+ 
+EDEC 452 Teaching Reading and Writing to Young Children   
+Credit Hours: 3  
+This course will apply the theories of literacy acquisition to classroom settings. The course will investigate ways 
+to help students learn to read and to write, how to assess and remediate learning, and how to address special 
+issues related to the skills of reading and writing.  
+  
+Prerequisite:  
+EDUC 312 AND EDUC 313  
+  
+EDEC 453 Teaching Arabic Language to Young Children   
+Credit Hours: 3  
+Participants in this course will study goals, methods, and materials appropriate for teaching young children the 
+Arabic language, with special emphasis on the Curriculum Standards for the State of Qatar, Arabic. This course 
+includes an extensive field-based component.  
+  
+Prerequisite:  
+EDUC 312 AND ARAB 213 AND EDUC 313  
+  
+ 
+ 
+=== PAGE 887 ===
+  
+ 
+887 
+ 
+ Undergraduate Catalog 2026-2027 
+EDEC 454 Integrated Social Studies to Young Children  
+Credit Hours: 3  
+This course will investigate how to apply theories of educational philosophy and psychology to teach the 
+content and the values of social studies. There will be special emphasis on Arabic culture, Islamic values, and 
+traditional ways of life in Qatar.  
+  
+Prerequisite:  
+EDUC 312 AND MATH 103 AND (BIOL 101 OR BIOL 100) AND EDUC 315 AND EDUC 310  
+ 
+EDEC 456 ESL and Young Children  
+Credit Hours: 3  
+This course deals with theory and best practice in teaching, listening, speaking, reading and writing that are 
+aligned with the State of Qatar National Curriculum Standards for grades KG to Three. It also introduces 
+instructional strategies that foster language development in elementary school that are consistent with current 
+theories of child second language acquisition. Language assessment, integrating technology and materials, 
+planning lessons and curricula, and classroom organization and management will also be also explored. This 
+course includes an extensive field-based component.  
+  
+Prerequisite:  
+(ENGL 156 OR ENGL 150) AND EDUC 313  
+  
+EDUC 489 Student Teaching in Art Education 
+Credit Hours: 3  
+This course will provide ongoing mentoring and reflection during a Student Teaching experience in primary and 
+secondary schools following careful preparation for that Student Teaching experience. Students enrolled in this 
+course will assume the responsibilities of a classroom teacher in a school setting. This course requires a 
+significant number of field hours. 
+  
+Prerequisite:  
+EDUC 401 AND ARTE 309 AND ARTE 402 AND ARTE 404 AND ARTE 405 
+  
+EDPE 210 Introduction to Physical Education and Physical Activity  
+Credit Hours: 3  
+In this course, students will examine and analyze contemporary views and practices of health, wellness, and 
+physical activity through review of: historical and philosophical perspectives; evolving issues and discussions 
+in the health, wellness, and physical activity fields; review of sociocultural influences in professional practices 
+and research paradigms; current recommendations for research-based health, wellness, and physical activity 
+practices and/or behaviors. Students will be given the opportunity to examine further current developments in 
+physical activity and examine the impact of these trends and development on physical education curriculum and 
+physical activity in general.  
+  
+=== PAGE 888 ===
+  
+ 
+888 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+EDUC 310 AND EDUC 312  
+  
+EDPE 220 Functional Anatomy and Basic Physiology  
+Credit Hours: 3  
+This course introduces students to the structure and function of the human body, with special focus on the 
+skeletal, muscular, nervous, endocrine, cardiovascular, respiratory, and digestive systems. The course acquaint 
+students with the structures of human body, including molecules, cells, tissues, organs, organ systems and basic 
+physiology. Laboratory work includes computer simulations and interactive programs of the physiological 
+aspects of human body. This course aims to identify and explain the main concepts for the most important 
+anatomical parts of human body related to the physical activity. Also, it discusses the functional aspects of each 
+part with emphasis upon the application of such knowledge to human motor performance.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 312  
+  
+EDPE 230 Motor Learning and Development  
+Credit Hours: 3  
+This course is designed to develop students’ knowledge and understanding of the theoretical principles that 
+underpin motor learning and development as it has been applied to sport and physical activity settings. The 
+course focuses on enhances students’ knowledge of main theories of learning and the principles that contribute 
+towards motor development. The course introduces students to the changes in motor behavior that take place 
+across the lifespan. It also explains the processes that underpin these changes and the factors that affect them.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 312  
+  
+EDPE 240 Principles and Practices of Sport 1  
+Credit Hours: 3  
+This course is designed mainly to provide students with the necessary teaching skills to introduce the games of 
+football and handball to students and enable them to become eligible practitioners working in the education 
+sector. The course aims at developing understanding of the principles of learning and teaching the basic skills in 
+football and handball. It will also enable them to understand the mechanisms of organizing and managing sports 
+tournaments in football and handball. Students will also be familiar with the rules and regulations of these two 
+sports as they governed by the International Federations for football and handball.  
+  
+EDPE 250 Sport Injuries  
+Credit Hours: 3  
+This course introduces students to various types of common athletic injuries in the field of physical activity and 
+sports. The course demonstrates to students the various methods of managing sports injuries and avoiding  
+=== PAGE 889 ===
+  
+ 
+889 
+ 
+ Undergraduate Catalog 2026-2027 
+complications. The course introduces students to the various types of sports injuries that could occur in schools’ 
+playing grounds or during sporting competition. Additionally, the course provides students with the appropriate 
+methods of offering first aid that helps to avoid any further complications.  
+  
+EDPE 260 Child Physical Education Curriculum and Practicum  
+Credit Hours: 3  
+The purpose of this course is to introduce teacher candidates to the developmentally appropriate physical 
+education for children. In this course, appropriate planning, instruction, and assessment make-up the main 
+foundation of the activities involved. Students are expected to conducted field visits to schools and watch and 
+evaluate actual physical education classes.  
+  
+Prerequisite:  
+EDPE 210  
+  
+EDPE 270 Biomechanics in Physical Activity and Sport  
+Credit Hours: 3  
+This course aims at developing students’ theoretical foundation of biomechanical laws and principles as applied 
+to physical activity and sports. The course introduces students to movements’ analyses of physical activities and 
+its application to performance in various sports. The course covers essential and practical knowledge of 
+physiological changes associated with performance and the mechanical principles and physical laws that govern 
+human movement and sports performance. A substantive part of the course will be devoted to the analysis of 
+fundamental and complex motor skills and the use of these skills in physical activity and performance in 
+physical education lessons, recreation and sporting events.  
+  
+Prerequisite:  
+EDPE 210  
+ 
+EDPE 280 Principles and Practices of Sport 2  
+Credit Hours: 3  
+This course aims to provide students with sufficient knowledge of basketball and volleyball through applied 
+theoretical study that enables them to learn those games, acquire their skills and understand the international 
+rules and regulations that govern the games. Students will learn how to teach, referee and organize the game. 
+The course covers methods of teaching fundamental skills of basketball and volleyball and game plans and 
+strategies.  
+  
+EDPE 290 Nutrition for Sport, Exercise and Health  
+Credit Hours: 3  
+This course introduces students to the importance of nutrition for sport, exercise and health, as well as providing 
+them with the essential knowledge about different nutrients. The course explains the main functions of 
+carbohydrates, fats and proteins and methods of absorbing and extracting energy. It also provides information 
+on the role of minerals, vitamins and water in maintaining health. The course clarifies the role of enriched and 
+=== PAGE 890 ===
+  
+ 
+890 
+ 
+ Undergraduate Catalog 2026-2027 
+fortified foods and dietary supplementation towards human performance. Additionally, it explains to students 
+how to interpret the information placed on food labels and the importance of adequate dietary intakes. The 
+course identifies the type, the quantity and the time when carbohydrates, fats and proteins should be consumed 
+before, during and after exercise. Moreover, it explains how to develop an individualized nutrition plan for 
+maintaining health.  
+  
+Prerequisite:  
+EDPE 210 with concurrency  
+ 
+EDPE 310 Teaching Physical Education in Primary Schools  
+Credit Hours: 3  
+This course introduces the theories related to the concept and development of physical literacy and 
+fundamentals movement skills. The course deals with the organizational framework, relevant pedagogical 
+concepts and methodological strategies for physical education curriculum in Primary Schools. The course aims 
+to develop student’s competencies as a physical education teacher in primary school. The course focuses on 
+students’ ability to understand and apply their pedagogical practices in a range of creative, competitive and 
+challenging activities in preparation for teaching and learning at Primary School level. Teacher candidates will 
+recognize and understand how individuals at that age participate and respond in different situations and 
+subsequently be able to begin to differentiate and select their teaching material and approach accordingly.  
+  
+Prerequisite:  
+EDPE 260  
+ 
+EDPE 320 Psychological Aspect of Physical Activity and Sport  
+Credit Hours: 3  
+This course is designed to provide students with an understanding of the theoretical and practical principles of 
+applying psychological concepts to physical activity, exercise, and health settings. The course explores how 
+personality and situational variables affect motivation, anxiety and performance. Also, the course provides the 
+opportunity to explore and discuss the effects of exercise on mental health and wellbeing. Additionally, the 
+course provides an overview of theory and practice related to contemporary issues in the field, including 
+personality and performance, motivation, attention control, leadership styles, athletic counseling, performance 
+enhancement techniques, and testing and performance motivation. This course aims to give students a better 
+understanding of psychological factors that influence performance of physical activity. The main topics include: 
+leadership, group cohesion, and team dynamics.  
+  
+Prerequisite:  
+EDPE 210 with concurrency  
+  
+EDPE 330 Principles and Practices of Sport 3  
+Credit Hours: 3  
+=== PAGE 891 ===
+  
+ 
+891 
+ 
+ Undergraduate Catalog 2026-2027 
+The course introduces students to the main swimming strokes and various methods of teaching beginners. The 
+course attempts to develop students’ knowledge of aquatics sports and covers aspects such as developing self-
+confidence in learning swimming, systems of energy production in competitive swimming for short and long 
+distances and the biomechanics of various swimming techniques. In addition, the course introduces students to 
+practical aspects such as floating, kicking, breathing, starting-up and turns.  
+ 
+EDPE 340 Sociological Aspects of Physical Activity and Sport  
+Credit Hours: 3  
+This course develops students understanding and appreciation of the place of sport in society and its impact on 
+various communities and groups of people. Also, it develops an appreciation of the networks that people form 
+and the consequences of these interdependencies for involvement in both leisure and sports activities (including 
+'exercise') and competitive sports. This course will focus on issues such as: participation in physical activity, 
+sport participation and exercise; sport and performance enhancing drugs; sport and violence; nationalism and 
+sport; the professionalization, commercialization; sport and the media; the relationship between sport and 
+health; sport as a lifestyle; exercise as a means of rehabilitation.  
+  
+Prerequisite:  
+EDPE 210 with concurrency  
+  
+EDPE 350 Exercise Physiology  
+Credit Hours: 3  
+This course provides a basic knowledge about the physiological changes in human body during normal steady 
+state as well as under different training conditions, such as exercising in various environmental conditions and 
+circumstances. Also, it gives students the opportunity to understand some of the important physiological issues 
+relating to the development of human performance capacity and limitations. In addition, this course aims to 
+encourage student to research and explore some of the important and interesting contemporary issues in the area 
+of exercise physiology that are related to the content of this course. Additionally, the course identifies the major 
+field methods and laboratory procedures employed in assessing the various human capacities and physical 
+fitness components.  
+  
+Prerequisite:  
+EDPE 220  
+  
+EDPE 360 Adapted Physical Activity  
+Credit Hours: 3  
+This course aims to develop students’ understanding of the historical background concerning the concept of 
+adapted physical activity and explains the difference between adapted physical activity and mainstream physical 
+education. The course introduces students to the classification of special needs with regard to the nature and 
+degree of severity. The course also introduces students to various approaches used for inclusion of special needs 
+pupils in mainstream physical education and the special requirements and provisions needed to ensure 
+successful implementation.  
+ 
+=== PAGE 892 ===
+  
+ 
+892 
+ 
+ Undergraduate Catalog 2026-2027 
+  
+Prerequisite:  
+EDPE 220  
+  
+EDPE 370 Sport Management and Recreation  
+Credit Hours: 3  
+The course introduces students to managing physical education, sports and recreations events inside and outside 
+school. The most commonly used definitions of managing physical activity, sporting events will be presented 
+and the underlying knowledge areas of each of the definitions will be discussed. Students will be given the  
+opportunity to examine current developments in managing schools’ sporting events and relate these trends and 
+developments to managing other recreational events organized for the school or the local community. Essential 
+topics in this course include definitions of physical activities and sport management, essential skills and roles of 
+the sports activities manager and current trends in managing schools sporting and recreational events.  
+  
+Prerequisite:  
+EDPE 210 with concurrency  
+  
+EDPE 380 Teaching Physical Education in Secondary Schools  
+Credit Hours: 3  
+The course deals with the organizational framework, relevant pedagogical concepts and methodological 
+strategies for physical education in secondary schools. The course aims to develop the knowledge, skills and 
+competencies necessary for teacher trainees to be able to teach secondary school students. The course also 
+focuses on candidates’ ability to understand and apply their pedagogical practices in a range of creative, 
+competitive and challenging activities in preparation for teaching and learning at secondary schools. Teacher 
+candidates will recognize and understand how individuals at that age participate and respond in different 
+situations and subsequently be able to begin to differentiate their teaching material and approach accordingly.  
+  
+Prerequisite:  
+EDPE 310  
+  
+EDPE 390 Principle and Practice of Sport 4  
+Credit Hours: 3  
+This course is designed to develop the teaching skills of students who are trained to work in the education  
+sector. This course deals with the place of gymnastics in the school’s physical education curriculum. It explores 
+the different types of gymnastics, focusing on the technical aspects of performing of the basic and main skills 
+on the floor as well as the various apparatus. Also, it develops students and understanding and appreciation of 
+health and safety regulations, support techniques and aiding methods on these apparatus. The course also covers 
+the theoretical and practical foundations of floor and apparatus exercises and routine, as well as their usage 
+gymnastic exercises to develop numerous physical capacities.  
+  
+Prerequisite:  
+=== PAGE 893 ===
+  
+ 
+893 
+ 
+ Undergraduate Catalog 2026-2027 
+EDPE 390  
+  
+EDPE 410 Work-based Learning  
+Credit Hours: 3  
+This course offers students the opportunity to apply and explore academic subject knowledge within a 
+vocational context, through the mode of work-based learning. Students will be allocated a College placement 
+tutor and a placement supervisor in their host organization. The placement supervisor will discuss a focus area  
+for the student’s role on placement. With the guidance provided by the placement tutor, the student should be 
+able to reflect critically on the experience through a reflective assignment.  
+ 
+EDPE 420 Measurement and Evaluation in Physical Education and Sports Studies  
+Credit Hours: 3  
+The course introduces students to the various methods and approaches commonly used in exploring and 
+investigating issues relating to physical education, physical activity, sports and recreation. The main and 
+universally used theories and principles of measurement and evaluation in Physical Education will be 
+introduced and students will be offered practical sessions on the application and use of these principles in the  
+field. The course develops students’ understanding of the purpose and applications of measurements and 
+introduces them to a range of validated tests used in physical education, recreation and sports.  
+  
+Prerequisite:  
+EDUC 201  
+  
+EDPE 430 Independent Project in Physical Activity and Sport  
+Credit Hours: 3  
+This course builds on prior learning, particularly work-based learning course, and offers students the 
+opportunity for further development of their skills, knowledge and understanding through conducting an 
+independent research project. The project is regarded as an important exercise for developing students’ abilities 
+to formulate effective research design and procedures, to collect and present data in an appropriate and 
+meaningful way and to conduct a critical analysis of relevant literature. Students are expected to complete an 
+independent research or enquiry-based project of a practical or theoretical nature. This will enable them to 
+demonstrate independence in their approach to research and enhance their project planning experience. Students 
+will be receiving guidance and support throughout the process from their personal supervisor.  
+ 
+EDPE 440 Principle and Practice of Sport 5  
+Credit Hours: 3  
+This course is designed to introduce students to the sport of athletics and provides them with the knowledge and 
+skills required to plan, organize and deliver physical education lessons covering the major track and field 
+events. The course aims to provide students with the necessary skills required for teaching and training track 
+and field events for different age groups. The course should enable trainee teachers to develop the ability to 
+perform and teach the technical aspects of various track and field events, demonstrating a good level of 
+understanding of the rules and regulations that govern this sport and its organization.  
+=== PAGE 894 ===
+  
+ 
+894 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+EDPE 449 Physical Conditioning  
+Credit Hours: 3  
+This course aims to provide students with theories and knowledge of fitness, including fitness divisions and 
+components. The course provides opportunity to students to practice on how to run some of the fitness training 
+batteries according to the needs of participants, including normal individuals and athletes. In addition, students 
+will be provided with the recent recommendations and scientific programs related to foundations of fitness 
+conditioning. Where appropriate, this course will employ other related sport sciences to physical fitness 
+development. Also, the course provides students with the skills to conduct the necessary laboratory and field to 
+assess and evaluate physical fitness levels.  
+ 
+EDPE 450 Principles and Practices of Sport 6  
+Credit Hours: 3  
+This course aims at providing students with information about the history, evolution, and development of 
+Racket Sports (Tennis & Table tennis). The course of study provide students with opportunities to learn and 
+develop their skills, gaining experiences of arbitration and organizing tournaments. The course reviews Racket 
+Sports (Tennis & Table tennis) basic skills, their technical and instructional steps as well as their basic playing 
+plans and strategies.  
+ 
+EDPE 490 Internship  
+Credit Hours: 6  
+This course offers students the opportunity to build on their previous work-based learning through the more 
+developed application of academic subject knowledge to a vocational context. The internship is a three-way 
+partnership between the student, the College and the employer. Students choose and negotiate a physical 
+activity or physical education work experience with College support and guidance. The internship must be in a 
+vocation specific to their chosen pathway. Students spend a number of days during the 2nd Semester of their 
+final year in a host institution engaged in agreed tasks relevant to future career and undertake a project related to 
+physical activity and/or physical education. The nature and aims of the project are normally negotiated with the 
+host organization and the College tutor. Additionally, students reflect on their experiences during the internship 
+through completion of a weekly log book.  
+ 
+EDPR 410 Reading and Writing in all Disciplines  
+Credit Hours: 3  
+This course will focus on the theories and research that underpin the incorporation of reading and writing in 
+every discipline and on methods for incorporating rich reading and writing experiences in each subject. 
+Participants in the class will explore the theory and practice of literacy development of adolescents and how 
+those theories may be applied in the classroom.  
+  
+Prerequisite:  
+EDUC 313  
+  
+=== PAGE 895 ===
+  
+ 
+895 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+EDPR 446 Teaching Primary Level Arabic  
+Credit Hours: 3  
+Participants in this course will study goals, methods, and materials appropriate for teaching primary students in 
+the Arabic language, with special emphasis on the Curriculum Standards for the State of Qatar, Arabic. This 
+course includes an extensive field-based component.  
+  
+Prerequisite:  
+EDUC 313 AND ARAB 218 AND ARAB 213  
+ 
+EDPR 447 Teaching Primary Level Islamic  
+Credit Hours: 3  
+Participants in this course will study goals, methods, and materials appropriate for teaching primary students in 
+Islamic Studies. This course includes an extensive field-based component.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 312 AND EDUC 315 AND ((ISLA 105 AND ISLA 106) OR (FIQH 205 AND QURS 
+203 AND QURS 200)  
+  
+EDPR 448 Teaching Primary Level Social Studies   
+Credit Hours: 3  
+This course concentrates on the teaching strategies of social studies, its approaches, and its methods in general 
+education classes for the primary level. The course includes a number of topics including the nature of social 
+studies in relation to its objectives, structure, concepts, definitions and the mutual relations among its branches 
+and educational functions. The course also examines the knowledge and skills related to the curricula of social 
+studies in Qatar which is connected to teaching, planning, learning resources, as well as evaluation methods. 
+This course includes an extensive field-based component.  
+  
+Prerequisite:  
+EDUC 312 AND GEOG 110 AND HIST 222 AND EDUC 315 AND EDUC 310  
+  
+EDPR 450 Teaching Primary Level Science  
+Credit Hours: 3  
+Participants in this course will study goals, methods, and materials available for teaching topics such as 
+scientific inquiry, matter and energy, biological systems, space and earth science, ecology, forces, and physical 
+systems in the primary school classroom. Issues related to problem solving and technology will also be 
+examined. The course will focus and the State of Qatar National Curriculum Standards in Science and will have 
+a field-based component in a primary school setting.  
+  
+Prerequisite:  
+EDUC 312 AND BIOL 101 AND CHEM 101 AND EDUC 315 AND EDUC 310  
+=== PAGE 896 ===
+  
+ 
+896 
+ 
+ Undergraduate Catalog 2026-2027 
+ 
+EDPR 451 Teaching Primary Level Math  
+Credit Hours: 3  
+Participants in this course will study goals, methods, and materials available for teaching topics such as 
+numeration, geometry, basic operations, fractions, decimals, percent, measurement, and probability in the 
+primary school classroom. Issues related to problem solving and technology will also be examined. The course 
+will focus and the State of Qatar National Curriculum Standards in Mathematics and will have a field-based 
+component in a primary school setting.  
+  
+Prerequisite:  
+EDUC 312 AND MATH 104 AND MATH 103 AND EDUC 315 AND EDUC 310  
+  
+EDPR 452 Methods in Inquiry & Research  
+Credit Hours: 2  
+This course focuses on the candidates’ acquisition of research and inquiry skills to support data collection, 
+analysis, and reflection (action research). The application of qualitative and qualitative research methodologies 
+will be examined. In addition, candidates will learn how to teach and support higher level thinking and inquiry 
+skills in primary students and how to teach students to design and conduct experiments in science and 
+mathematics. This course has a field-based component.  
+  
+Prerequisite:  
+EDUC 312 AND EDUC 315 AND EDUC 310  
+  
+EDPR 453 Teaching Primary Level English (ESL I)   
+Credit Hours: 3  
+This course deals with the techniques, methods and strategies for teaching beginning EFL/ESL students. It deals 
+with the effective teaching of English language skills, with special emphasis on the curriculum standards of the 
+state of Qatar, English for grades from 4-6. Participants in this course will be exposed to the major concepts, 
+theories and research related to the nature and acquisition of a second language. The course will also cover 
+scaffolding techniques, material selection, and evaluation and assessment techniques appropriate to Qatar 
+standards and ESL/EFL classrooms. This course includes field- based experiences in a primary school setting.  
+  
+Prerequisite: 
+(EDUC 311 OR EDUC 319) AND ENGL 157  AND ENGL 153  
+  
+EDPR 454 Teaching Primary Level English (ESL II)   
+Credit Hours: 3  
+This course expands upon candidates knowledge the concepts and strategies for teaching beginning EFL/ESL 
+students learned in Teaching Primary Level English (ESL) I for the effective teaching of English language 
+skills, with special emphasis on the curriculum standards of the state of Qatar, English for grades from 4-6. The 
+course requires candidates to apply scaffolding techniques, material selection, and evaluation and assessment 
+=== PAGE 897 ===
+  
+ 
+897 
+ 
+ Undergraduate Catalog 2026-2027 
+techniques appropriate to Qatar standards and ESL/EFL classrooms and to effectively use ICT and inquiry in 
+instruction. This course includes field-based experiences in a primary school setting.  
+ 
+Prerequisite:  
+EDPR 453  
+ 
+EDPR 455 Teaching Primary Level Reading  
+Credit Hours: 3  
+This course is a comprehensive reading instruction course that is research based and includes the study of 
+phonemic awareness, phonics, comprehension, spelling patterns, and methods of delivering a strong literature 
+based program with emphasis on content area reading, comprehension, and ongoing assessment and diagnostic 
+techniques. This course has a field-based component.  
+  
+Prerequisite:  
+EDUC 312 AND EDUC 315  AND EDUC 310  
+  
+EDPR 481 Student Teaching  
+Credit Hours: 9  
+This course will provide ongoing mentoring and reflection during a 10-week Student Teaching experience and 
+the four weeks preparation for that Student Teaching. Topics for study will emerge from interns’ authentic 
+concerns and interests, from the university supervisor’s classroom observations, and from mentor teacher 
+suggestions. Participants enrolled in this course will assume the responsibilities of a classroom teacher in a 
+school setting. This course requires a significant number of field hours.  
+  
+Prerequisite:  
+EDUC 310  AND (EDUC 311 OR EDUC 319)  AND EDUC 313  AND EDUC 314  AND EDUC 318  AND 
+EDUC 317  AND EDUC 316  AND EDUC 312  AND EDUC 315  
+  
+EDSE 331 Reading & Writing Across the Curriculum.  
+Credit Hours: 3  
+The purpose of this course is to extend the candidate’s thinking about the concept of literacy, and to prepare the 
+candidate to critically analyze learning and literacy instruction in today’s schools. We will focus on providing a 
+critical perspective for teaching reading and writing across the curriculum. The emphasis of the class is on 
+developing conceptual tools that will enable the candidate to use reading and writing as instructional tools in the 
+classroom. The course will focus on the nature of literacy processes and instruction that facilitates learning, 
+particularly as it applies to secondary students. The course uses a social‐constructivist theoretical perspective 
+and involves a field‐based experience.   
+  
+Prerequisite:  
+EDUC 310 AND EDUC 320 AND EDUC 312  
+  
+=== PAGE 898 ===
+  
+ 
+898 
+ 
+ Undergraduate Catalog 2026-2027 
+EDSE 340 Methods I: Instructional Strategies for Arabic   
+Credit Hours: 3  
+This course focuses on introducing student teachers to the nature of the Arabic Language, its qualities, 
+characteristics, and skills. It also aims at identifying the National Curriculum standards of teaching prep and  
+secondary stage students, this is in addition to professional teachers ‘standards in the State of Qatar. The course 
+provides student teachers with opportunities to train in the skills of lesson planning, recent methods and 
+strategies of teaching and its applications in teaching the Arabic language (class questions, warm ups, 
+motivating learners, teaching listening, speaking). It also provides opportunities to develop teaching 
+performance through applications and field experiences. The course also develops skills in conducting action 
+research, reflection in professional practices. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 341 Methods I: Instructional Strategies for English  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary courses in English 
+(ESL, EFL), with special emphasis on the Curriculum Standards for the State of Qatar, English. Students will 
+learn a range of research-based strategies for designing and delivering effective ESL/ EFL instruction in the 
+secondary classroom. The differences between the Advanced and Foundation Curriculums for the State of Qatar 
+National Curriculum Standards and the changes in strategies that requires will be explored. This course includes 
+a field-based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 342 Methods I: Instructional Strategies for Islamic Studies  
+Credit Hours: 3  
+The diploma candidates will study in this course the notion of Islamic education and its characteristics and 
+objectives, and they will learn how to analyze content. As well, they will learn the teaching skills needed for the 
+teaching profession; they will also learn the modern teaching methods and strategies that emphasize positive 
+learning activities such as active learning, collaborative learning, brainstorming and others. They will, as well, 
+learn the appropriate teaching of recitation and interpretation in as much as their teaching objectives and 
+principles are concerned. They will also study the provisions of proper recitation and Tajweed of the holy 
+Quran. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+ 
+ 
+=== PAGE 899 ===
+  
+ 
+899 
+ 
+ Undergraduate Catalog 2026-2027 
+EDSE 343 Methods I: Instructional Strategies for Social Studies  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary level courses in social 
+studies. Students will learn research-based methods of effective instruction in the knowledge and skills related 
+to the discipline. This course has a significant field-based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 344 Methods I: Instructional Strategies for Mathematics  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching preparatory/secondary levels 
+courses in science, with special emphasis on the Curriculum Standards for mathematics in the State of Qatar. 
+Topics will include the history development and perspectives in mathematics education, learning theories, 
+principles and standards of mathematics education, teaching strategies, problem solving strategies, instructional 
+media and manipulatives, and assessment techniques in mathematics education. This course includes a field 
+based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 345 Methods I: Instructional Strategies for Physics  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Physics, with special emphasis on the Curriculum Standards for the State of Qatar, Physics. Topics will include 
+constructivist learning theories, discovery learning, inquiry, learning cycle models, project and problem-based 
+learning, and the design and management of Physics laboratories. The differences between the Advanced and 
+Foundation Curriculums for the State of Qatar National Curriculum Standards and the changes in strategies that 
+requires will be explored. This course has a field-based component  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 346 Methods I: Instructional Strategies for Chemistry  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Chemistry, with special emphasis on the Curriculum Standards for the State of Qatar, Science. Topics will 
+include constructivist learning theories, discovery learning, inquiry, learning cycle models, project and problem 
+based learning, and the design and management of science laboratories. The differences between the Advanced 
+and Foundation Curriculums for the State of Qatar National Curriculum Standards and the changes in strategies 
+that requires will be explored. This course has a field-based component  
+=== PAGE 900 ===
+  
+ 
+900 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+EDSE 331    
+  
+EDSE 347 Methods I: Instructional Strategies for Biology  
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Biology, with special emphasis on the Curriculum Standards for the State of Qatar, Science. Topics will include 
+constructivist learning theories, discovery learning, inquiry, learning cycle models, project and problem-based 
+learning, and the design and management of science laboratories. The differences between the Advanced and 
+Foundation Curriculums for the State of Qatar National Curriculum Standards and the changes in strategies that 
+requires will be explored. This course has a field-based component.  
+  
+Prerequisite:  
+EDSE 331    
+  
+EDSE 460 Methods II: Inquiry and ICT for Arabic   
+Credit Hours: 3  
+This course concentrates on introducing students to effective and suitable strategies and methods of teaching  
+Arabic for the prep and secondary stages in alignment with Qatar National curriculum standards and the 
+National professional standards for teachers. The course deals with techniques and tools of varied assessments 
+that measure students ‘performance levels in the Arabic language skills. It also focuses on employing and using 
+technology in teaching the Arabic Language skills. It also aims at developing the learners’ skills in research, 
+analysis, and creation through employing technology in the lesson. It develops their reflective skills about their 
+professional practices. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 340  
+  
+EDSE 461 Methods II: Inquiry and ICT for English   
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary level courses in English.  
+The differences between the Advanced and Foundation Curriculums for the State of Qatar National Curriculum 
+Standards and the changes in strategies that are required will be explored. Candidates will learn how to conduct 
+action research, initiate and guide student research, and to use ICT in English teaching. This course has a field 
+based component. This course requires eight hours of field experience.  
+  
+Prerequisite:  
+EDSE 341  
+  
+ 
+  
+=== PAGE 901 ===
+  
+ 
+901 
+ 
+ Undergraduate Catalog 2026-2027 
+EDSE 462 Methods II: Inquiry and ICT for Islamic Studies  
+Credit Hours: 3  
+B.Ed. candidates will study methods of teaching the various Islamic Education branches that include: Hadith 
+and the Prophet’s Biography (Sirah), Creed (beliefs), Worship and Discipline as incorporated in the teaching 
+objectives and the teaching principles and procedures. As well, they will be familiar with the strategies of using 
+technology in teaching Islamic education, as well as the role of the evaluation and assessment in Islamic 
+education, let alone identify attributes and characteristics of the Islamic education teacher and finally how to 
+undertake research in Islamic education. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 342  
+  
+EDSE 463 Methods II: Inquiry and ICT for Social Studies   
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in social 
+studies, with a special emphasis on the use of ICT in social studies instruction. The course will also include the 
+use of action research to inform instruction; and strategies to encourage, design, mentor and assess student 
+research. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 343  
+  
+EDSE 464 Methods II: Inquiry and ICT for Mathematics   
+Credit Hours: 3  
+The course will focus on student-centered methods in teaching mathematics. Special attention will be devoted to 
+technological aids to instruction and hands on mathematics equipment such as computer-aided instruction and 
+mathematics laboratories to stimulate discovery learning. The course will also include the use of action research 
+to assess and inform instruction and strategies to teach, encourage, mentor, and assess student research. This 
+course has a field-based component.  
+  
+Prerequisite:  
+EDSE 344  
+  
+EDSE 465 Methods II: Inquiry and ICT for Physics   
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Physics, with special emphasis on the Curriculum Standards for the State of Qatar, Physics. Topics will include 
+the use of ICT in Physics; use of action research to inform instruction; and strategies to encourage, design, 
+mentor, and assess student research. This course includes a field-based component.  
+ 
+  
+=== PAGE 902 ===
+  
+ 
+902 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+EDSE 345  
+  
+EDSE 466 Methods II: Inquiry and ICT for Chemistry   
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Chemistry, with special emphasis on the Curriculum Standards for the State of Qatar, Chemistry. Topics will 
+include the use of ICT in Chemistry; use of action research to inform instruction; and strategies to encourage, 
+design, mentor, and assess student research. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 346  
+  
+EDSE 467 Methods II: Inquiry and ICT for Biology   
+Credit Hours: 3  
+Candidates will study goals, methods, and materials appropriate for teaching secondary levels courses in 
+Biology, with special emphasis on the Curriculum Standards for the State of Qatar, Biology. Topics will include 
+the use of ICT in Biology; use of action research to inform instruction; and strategies to encourage, design, 
+mentor, and assess student research. This course includes a field-based component.  
+  
+Prerequisite:  
+EDSE 347  
+  
+EDSE 491 Student Teaching in Secondary Education  
+Credit Hours: 9  
+Ten weeks of observation and participation in classroom activity; supervised teaching in an independent school. 
+Candidates will be assigned a mentor teacher at the school and university supervisors. Instruction of candidates 
+will be based upon NCATE, INTASC principles, and the Qatar National Professional Standards for Teachers. 
+Instructional activities will be designed using the Qatar Core Curriculum Standards. This course has a 
+significant field-based component.  
+  
+EDUC 100 Photography  
+Credit Hours: 3  
+This course focuses on the basic concept of digital photography, which emphasis on 1) photography literacy, 2) 
+handling of the digital camera, and 3) manipulation of digital images.  
+  
+EDUC 200 Education and Social Problems  
+Credit Hours: 3  
+The course aims to increase the students’ awareness of local and global community issues (cultural, social, 
+economic and environmental) and the role of education in dealing with such issues and influencing results. The 
+=== PAGE 903 ===
+  
+ 
+903 
+ 
+ Undergraduate Catalog 2026-2027 
+focus will be on assisting students in developing the necessary skills and strategies to analyse these issues and 
+propose theoretical and practical solutions to address them to enhance learning through community service.  
+Students will be able to identify some basic concepts such as education, society, and culture and the relationship 
+between them, as well as learn more about the current issues and challenges of a global nature that face the local 
+community. The role of education in influencing such issues, especially youth, family, development and 
+environmental matters, is another focus that aims at providing students with planning skills and implementing 
+some field projects to meet societal challenges and achieve the learning outcomes through community service.  
+ 
+EDUC 201 Research Methods  
+Credit Hours: 3  
+This course is designed to help undergraduate students understand what research is, how it is conducted, and its 
+place in academic disciplines. The focus will be on assisting students in developing practical research skills and 
+strategies to enhance academic and professional success. Major emphasis will be on helping students 
+understand the basic concepts of research as well as the different research paradigms and their implications for 
+doing research. Another focus will be on assisting students with developing the ability to effectively prepare a 
+research proposal. Other course topics include research ethics, experimental and non-experimental research, and 
+acquiring electronic and non-electronic information resources for research purposes. Delivery methods used in 
+this course will integrate active and experiential activities in the teaching and learning process. Student learning 
+outcomes will be assessed using a multidimensional approach.  
+  
+EDUC 203 Family Relationships  
+Credit Hours: 3  
+This course provides students with a range of knowledge, skills, and positive attitudes towards the family and 
+family relations. It covers the concept of families, their functions and characteristics, the functions of the 
+individual that change with marriage and family life, and family growth in the life cycle. Content includes the 
+family’s role in child-rearing during different developmental stages. The role of family organizations in helping 
+families address marital issues and problems is also addressed  
+  
+EDUC 310 Foundations of Education in Qatar and School Reform   
+Credit Hours: 3  
+This course has been designed to acquaint the learners with the progress of education in Qatar, including 
+schools and the various elements that impact education and learning, such as the family and society. Learners 
+will also become acquainted with the roles expected they may be expected to ply within the initiative of 
+educational progress in Qatar through examining some of the issues related to the initiative and the 
+responsibilities of teachers.  
+  
+EDUC 312 Curriculum and Assessment  
+Credit Hours: 3  
+This course engages participants in examining curriculum theory and models and provides experience in 
+designing individual lessons, units, and assessments that promote the learning of all early childhood and 
+primary students. Participants in the course will learn to plan an effective instructional program through 
+=== PAGE 904 ===
+  
+ 
+904 
+ 
+ Undergraduate Catalog 2026-2027 
+applying best practices, responding to diverse community interests, and planning for student mastery of State of 
+Qatar curriculum standards. This course includes a field-based component.  
+  
+EDUC 313 Developing Literacy in Children  
+Credit Hours: 3  
+This course will provide an overview of the history, current research, and issues in language acquisition in both 
+naturalistic contexts and classroom settings and the importance of literature in the development of children. It 
+also includes the identification, evaluation, and use of different genres of literature in teaching children.  
+  
+Prerequisite:  
+EDUC 315  AND EDUC 310  AND EDUC 312  
+  
+EDUC 314 Technology for Children  
+Credit Hours: 3  
+This course provides an introduction to basic computer operations and technology, including fundamentals of 
+using a computer, using basic software, accessing and saving data, basic use by children of spreadsheets, 
+databases and word processing. Participants in this course will learn about developmentally appropriate use of 
+technology with children and how to evaluate and select hardware and software to support the early childhood 
+and primary programs.  
+ 
+Prerequisite:  
+EDUC 310 AND EDUC 315  AND EDUC 312  
+  
+EDUC 315 Child Development & Learning  
+Credit Hours: 3  
+This course reviews the literature on children’s biological, motor, perceptual, cognitive (including intelligence), 
+language, emotional, social, and gender development. Child development history, theory, and research strategies 
+will be discussed, as well as the effect of family, peers, media, and schooling.  
+ 
+EDUC 316 Classroom Management  
+Credit Hours: 3  
+This course will explore methods to create a positive primary classroom environment and to establish routines 
+that lead to effective learning and safety for all students. It will examine theories and research-proven strategies 
+to manage student behaviors to promote learning and ways to engage parents as partners to promote learning.  
+This course includes a field-based component.  
+ 
+Prerequisite:  
+EDUC 310 AND EDUC 312 (EDUC 315 OR EDUC 320 OR SPSC 349)  
+  
+EDUC 317 Inclusive Classrooms  
+Credit Hours: 3  
+=== PAGE 905 ===
+  
+ 
+905 
+ 
+ Undergraduate Catalog 2026-2027 
+This course aims at introducing candidates to psychological, environmental, and cultural conditions that 
+contribute to mild/moderate disabilities. It covers etiology, characteristics, development, prevention and 
+intervention strategies, theories, and legal aspects. It emphasizes development in academic, social, career, 
+behavioral, medical, psychological, physical, and health conditions of individuals with mild/moderate 
+disabilities.  
+ 
+EDUC 318 Integrating Visual Arts  
+Credit Hours: 3  
+This course teaches how to integrate the visual arts and infuse it across the curriculum. It acquaints students 
+with the interdisciplinary approach to education. Literature supporting integration of the visual arts with other 
+subjects will be examined. The course also has a clinical aspect in which students design and execute lessons, 
+thematic units, and activities to demonstrate understanding of the concepts as well as ability to carry them out in 
+the classroom.  
+  
+Prerequisite:  
+EDUC 310  AND EDUC 315  AND EDUC 312  
+  
+EDUC 319 Classroom Assessment  
+Credit Hours: 3  
+This course will provide participants with the knowledge and skills needed to assess student learning across the 
+curriculum and instruction. The course will present principles of classroom assessment: how to design, 
+administer and interpret formal and informal classroom assessments in different domains (Knowledge, skills 
+and emotions), test construction properties, use of emerging technologies in assessment, grading and basic test 
+analysis, how to interpret data from a variety of relevant sources, how to use assessment for educational and 
+instructional decisions, and the ethical issues related to testing and assessment.  
+  
+Prerequisite:  
+EDUC 310 AND EDUC 312 AND (EDUC 315 OR EDUC 320)  
+  
+EDUC 320 Human Development  
+Credit Hours: 3  
+This course reviews the literature on child biological, motor, perceptual, cognitive (including intelligence), 
+language, emotional, social, and gender development. Child development history, theory, and research strategies 
+will be discussed, as well as the effect of family, peers, media, and schooling    
+ 
+EDUC 401 Art Teaching Methods 
+Credit Hours: 3  
+This course will provide an overview of the history, current research, and issues in language acquisition in both 
+naturalistic contexts and classroom settings and the importance of literature in the development of children. It 
+also includes the identification, evaluation, and use of different genres of literature in teaching children.  
+  
+=== PAGE 906 ===
+  
+ 
+906 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+EDUC 314 AND EDUC 316 AND ARTE 307 AND ARTE 308 AND ARTE 309   
+ 
+EDUC 481 Student Teaching-Early Childhood  
+Credit Hours: 9  
+This course will provide ongoing mentoring and reflection during a 10-week Student Teaching experience and 
+the four weeks preparation for that Student Teaching. Topics for study will emerge from interns’ authentic 
+concerns and interests, from the university supervisor’s classroom observations, and from mentor teacher 
+suggestions. Participants enrolled in this course will assume the responsibilities of a classroom teacher in a 
+school setting. This course requires a significant number of field hours.  
+  
+EDUC 482 Student Teaching-Arabic Studies  
+Credit Hours: 9  
+This course will provide ongoing mentoring and reflection during a 10-week Student Teaching experience and 
+the four weeks preparation for that Student Teaching. Topics for study will emerge from interns’ authentic 
+concerns and interests, from the university supervisor’s classroom observations, and from mentor teacher 
+suggestions. Participants enrolled in this course will assume the responsibilities of a classroom teacher in a 
+school setting. This course requires a significant number of field hours.  
+  
+EDUC 483 Student Teaching-Math &Science  
+Credit Hours: 9  
+This course will provide ongoing mentoring and reflection during a 10-week Student Teaching experience and 
+the four weeks preparation for that Student Teaching. Topics for study will emerge from interns’ authentic 
+concerns and interests, from the university supervisor’s classroom observations, and from mentor teacher 
+suggestions. Participants enrolled in this course will assume the responsibilities of a classroom teacher in a 
+school setting. This course requires a significant number of field hours.  
+  
+EDUC 484 Student Teaching-English  
+Credit Hours: 9  
+This course will provide ongoing mentoring and reflection   during a 10-week Student Teaching experience and 
+the four   weeks preparation for that Student Teaching. Topics for study will emerge from interns’ authentic 
+concerns and interests,  from the university supervisor’s classroom observations, and from mentor teacher 
+suggestions. Participants enrolled in this course will assume the responsibilities of a classroom teacher in a 
+school setting. This course requires a significant number of field hours.    
+  
+ELEC 201 Fundamentals of Electric Circuits  
+Credit Hours: 3  
+Electric current, voltage, power, and dependent and independent sources, Kirchhoff’s current and voltage laws,  
+Ohm’s law. DC circuit analysis, superposition, Thevenin’s theorems. Operational Amplifiers. Capacitance and 
+Inductance. AC Circuits Analysis, phasor representation, complex impedances. Sinusoidal steady state analysis. 
+=== PAGE 907 ===
+  
+ 
+907 
+ 
+ Undergraduate Catalog 2026-2027 
+Instantaneous and average AC power, RMS value, Complex AC power. Several laboratory experiments to 
+reinforce material from the lectures will be conducted.  
+  
+ 
+Prerequisite:  
+MATH 102 Concur. AND PHYS 193 Concur.  
+  
+ELEC 210 Electric Circuits I  
+Credit Hours: 3  
+Electric current, voltage, power, and dependent and independent sources, Kirchhoff’s current and voltage laws,  
+Ohm’s law and simplification of series/parallel and Y/delta connections. DC circuit analysis, Nodal and Mesh 
+analysis, Superposition, Thevenin’s and Norton’s theorems, Source transformation and maximum power 
+transfer, Operational Amplifiers, Capacitance and Inductance; Capacitors and inductors series/parallel 
+connections. Source free and step response of RL, RC, and RLC transient circuits.  
+  
+Prerequisite:  
+MATH 102 with concurrency AND PHYS 193 with concurrency  
+  
+ELEC 211 Electric Circuits I Laboratory   
+Credit Hours: 1  
+Review of the basic electrical laboratory components and equipment: breadboard, trainer kit. Resistors color 
+coding, uncertainty and error propagation. Several laboratory experiments along with computer simulations will 
+be conducted to reinforce material from the lectures on the following topics: ohm’s law, Series and Parallel 
+connections, Kirchoff’s Current Law, Kirchoff’s V oltage Law, Nodal and Mesh Analysis, Superposition 
+Theorem, DC bridges, Thevenin and Maximum power transfer theorem.    
+  
+Prerequisite:  
+ELEC 210 with concurrency  
+  
+ELEC 212 Electric Circuits II  
+Credit Hours: 3  
+Phasor relationships for circuit elements. Series/parallel, Nodal and Mesh Analysis, and Theorems for AC 
+circuits; Instantaneous and average AC power; Maximum average power transfer, RMS value, Complex AC 
+power, and power factor correction; Three-phase circuits analysis, power in balanced three-phase system; 
+Mutual inductance and electric circuits with mutual inductances; resonant electric circuits; steady state 
+response of electric circuits with non-sinusoidal sources.  
+  
+Prerequisite:  
+ELEC 201 OR (ELEC 210 AND ELEC 211) AND MATH 231  
+  
+ELEC 213 Electric Circuits II Lab  
+=== PAGE 908 ===
+  
+ 
+908 
+ 
+ Undergraduate Catalog 2026-2027 
+Credit Hours: 1  
+In this course, students are required to build electric circuits and make some measurements using instruments 
+like Digital multimeter and Oscilloscope to experimentally verify several electric circuits analysis techniques 
+and theorems given in theory lectures. Computer simulation will be used throughout the laboratory experiments.  
+Prerequisite:  
+ELEC 202 with concurrency OR ELEC 212 with concurrency  
+  
+ELEC 231 Electronic Devices and Circuits   
+Credit Hours: 3  
+The course reviews semiconductor physics. It covers PN junction behavior, the characteristics and circuits of 
+diodes and Zener diodes, and the structure and operation of BJTs and FETs. Topics include DC analysis of 
+transistor circuits, biasing techniques, and small-signal analysis. The course also explores single-and multistage 
+transistor amplifiers and digital electronics. Laboratory experiments focus on characterizing diodes and 
+transistors, and designing and testing electronic circuits using diodes, BJTs, FETs, and op-amps. 
+  
+Prerequisite:  
+ELEC 201 OR (ELEC 210 AND ELEC 211) AND CHEM 101  
+  
+ELEC 232 Lab for Electronics I  
+Credit Hours: 1  
+Selected laboratory experiments for characterizing diodes and transistors, and designing and testing electronic 
+circuits that employ diodes, BJTs, and MOSFETs.  
+  
+Prerequisite:  
+ELEC 234 Concur.  
+  
+ELEC 234 Electronics I  
+Credit Hours: 3  
+Review of semiconductor physics, PN junctions, Diode circuits, Special diodes, Bipolar junction transistor 
+(BJT) ), DC and small signal analysis of BJT circuits, MOSFETS, DC analysis of depletion and enhancement 
+MOSFET circuits, small signal analysis of MOSFETs and JFETs.  
+  
+Prerequisite:  
+ELEC 201  
+  
+ELEC 261 Digital Systems Design  
+Credit Hours: 3  
+Number systems, Boolean Algebra, Combinational Logic Design and implementation, Logic Minimization 
+Techniques, Sequential Logic Design and implementation. State minimization Techniques, Sequential Circuit 
+Implementation, Logic Devices (FPGAs), Hardware description language (VHDL).  
+  
+=== PAGE 909 ===
+  
+ 
+909 
+ 
+ Undergraduate Catalog 2026-2027 
+Prerequisite:  
+ELEC 201 OR (ELEC 210 AND ELEC 211)  
+  
+ 
+ELEC 262 Digital System Design Lab  
+Credit Hours: 1  
+Selected experiments examining logic devices and circuits, and including a final design project, to accompany 
+and complements the lecture course.  
+  
+Prerequisite:  
+ELEC 261 Concur.  
+ 
+ELEC 263 Computer Architecture & Organization  
+Credit Hours: 3  
+Introduction and historical overview. The Five classic components of a Computer. Performance measures for 
+Computers. CPU description at the instruction level. CPU organization. CPU types. CPU design: Register 
+transfer language, Hardwired and micro-program control, CISC and RISC processors. Instruction and hardware 
+study of a commercial 8-bit microprocessor (e.g. Intel 8088). Computer Memory, Input and output devices.  
+Prerequisite:  
+ELEC 261  
+ 
+ELEC 265 Analog and Digital Electronics  
+Credit Hours: 3  
+The course covers the characteristics and circuit analysis for diodes, BJTs, and MOSFETs. Topics include diode 
+as a rectifier, transistor as a switch and amplifier, small signal equivalent circuits, and biasing techniques, 
+frequency response analysis for amplifiers, power amplifiers, active filters and oscillators. For digital segment, 
+the course covers the characteristic parameters and circuit analysis for different logic families. Topics include 
+RTL, DTL, TTL, and CMOS. Several laboratory experiments to reinforce material from the lectures will be 
+conducted. 
+ 
+Prerequisite:  
+ELEC 201  
+ 
+ELEC 311 Electromagnetics  
+Credit Hours: 3  
+Electromagnetic phenomena explored in modern applications; Basics of vector calculus. Maxwell's equations 
+and their physical meanings; solution of Maxwell's equations for non-time varying and time varying fields; 
+unguided and guided propagation of travelling waves; electromagnetic radiation and introduction to antenna 
+theory.  
+  
+Prerequisite:  
+=== PAGE 910 ===
+  
+ 
+910 
+ 
