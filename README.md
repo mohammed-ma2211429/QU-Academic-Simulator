@@ -9,6 +9,24 @@ course demand.
 The simulator is explanatory, not prescriptive. It reports model evidence and
 assumptions; it does not make planning recommendations.
 
+## Live demo and links
+
+| | |
+|---|---|
+| Live app | <https://qu-academic-simulator.onrender.com> |
+| Source code | <https://github.com/mohammed-ma2211429/QU-Academic-Simulator> |
+| Companion project: Schedule Planner (live) | <https://qu-schedule-planner.vercel.app> |
+| Companion project: Schedule Planner (code) | <https://github.com/mohammed-ma2211429/QU-chatbot> |
+| Author | Mohammed Mansib Shahriyar Alam, <https://github.com/mohammed-ma2211429> |
+| Portfolio | <https://mansib.pages.dev> |
+
+The live app runs on Render's free plan, so the first request after a period
+of inactivity can take up to a minute while the service wakes up. The AI
+Planning Assistant is off in the hosted copy unless a `GROQ_API_KEY` is set in
+Render's environment; every simulation works without it.
+
+Technical write-up: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
 ## Quick start on Windows
 
 1. Double-click `Start App.bat`.
@@ -115,7 +133,7 @@ and known limitations.
 ## Repository structure
 
 ```text
-simulator/
+QU-Academic-Simulator/
 |-- backend/
 |   |-- chatbot/             AI assistant integration
 |   |-- simulation/          Models and simulation engines
@@ -145,7 +163,9 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8001
 ```
 
 `backend/main.py` serves `frontend/dist` and the API. `render.yaml` implements
-the same architecture on Render.
+the same architecture on Render. The hosted copy is at
+<https://qu-academic-simulator.onrender.com>; to deploy your own, push the repo
+to GitHub, then in Render choose New, then Blueprint, and select it.
 
 Render's free-plan filesystem is ephemeral. A saved `data/overrides.json` can
 be lost after redeploy or service replacement; committed program/source data is
